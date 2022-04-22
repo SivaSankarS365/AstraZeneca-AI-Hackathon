@@ -1,0 +1,1176 @@
+<<START_SECTION>>   ?This medicinal product is subject to additional monitoring in Australia. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse events at www.tga.gov.au/reporting-problems. <<END_SECTION>>
+<<START_SUBHEADING>>AUSTRALIAN PRODUCT INFORMATION <<END_SUBHEADING>>
+<<START_SUBHEADING>>this is a txt file<<END_SUBHEADING>>
+<<START_SECTION>>IMFINZI?  
+IMFINZI?  
+(durvalumab) <<END_SECTION>>
+<<START_SUBHEADING>>1 	NAME OF THE MEDICINE <<END_SUBHEADING>>
+<<START_SECTION>>Durvalumab <<END_SECTION>>
+<<START_SUBHEADING>>2 	QUALITATIVE AND QUANTITATIVE COMPOSITION <<END_SUBHEADING>>
+<<START_SECTION>>Each vial of IMFINZI concentrated solution for infusion contains either 120 mg or 500 mg of durvalumab. 
+Each vial of IMFINZI concentrated solution for infusion contains either 120 mg or 500 mg of durvalumab. 
+For the full list of excipients, see Section 6.1. <<END_SECTION>>
+<<START_SUBHEADING>>3 	PHARMACEUTICAL FORM <<END_SUBHEADING>>
+<<START_SECTION>>Sterile, preservative free, clear to opalescent and free from visible particles, colourless to slightly yellow, concentrated solution for infusion. <<END_SECTION>>
+<<START_SUBHEADING>>4 	CLINICAL PARTICULARS <<END_SUBHEADING>>
+<<START_SUBHEADING>>4.1 	Therapeutic indications <<END_SUBHEADING>>
+<<START_SUBHEADING>>Locally advanced non-small cell lung cancer (NSCLC) <<END_SUBHEADING>>
+<<START_SECTION>>IMFINZI (durvalumab) is indicated for the treatment of patients with locally advanced, unresectable NSCLC whose disease has not progressed following platinum-based chemoradiation therapy. <<END_SECTION>>
+<<START_SUBHEADING>>Small cell lung cancer (SCLC) <<END_SUBHEADING>>
+<<START_SECTION>>IMFINZI (durvalumab) in combination with etoposide and either carboplatin or cisplatin is indicated for the first-line treatment of patients with extensive-stage small cell lung cancer (ESSCLC). <<END_SECTION>>
+<<START_SUBHEADING>>4.2 	Dose and method of administration <<END_SUBHEADING>>
+<<START_SECTION>>IMFINZI is for single use in one patient only. Discard any residue. 
+IMFINZI is for single use in one patient only. Discard any residue. 
+The recommended dose of IMFINZI depends on the indication as presented in Table 1. IMFINZI is administered as an intravenous infusion over 1 hour. <<END_SECTION>>
+<<START_SUBHEADING>>Table 1 	Recommended Dosage of IMFINZI <<END_SUBHEADING>>
+<<START_HEADING>>Indication <<END_HEADING>>
+<<START_SUBHEADING>>Recommended IMFINZI dosage <<END_SUBHEADING>>
+<<START_SUBHEADING>>Duration of Therapy <<END_SUBHEADING>>
+<<START_SUBHEADING>>Locally Advanced NSCLC <<END_SUBHEADING>>
+<<START_SECTION>>10 mg/kg every 2 weeks or 1500 mg every 4 weeksa <<END_SECTION>>
+<<START_SUBHEADING>>For one year or until disease progression or unacceptable toxicity <<END_SUBHEADING>>
+<<START_HEADING>>Indication <<END_HEADING>>
+<<START_SUBHEADING>>Recommended IMFINZI dosage <<END_SUBHEADING>>
+<<START_SUBHEADING>>Duration of Therapy <<END_SUBHEADING>>
+<<START_SUBHEADING>>ES-SCLC <<END_SUBHEADING>>
+<<START_SECTION>>1500 mgb in combination with chemotherapyc,d every 3 weeks  
+1500 mgb in combination with chemotherapyc,d every 3 weeks  
+(21 days) for 4 cycles, followed by 
+1500 mg every 4 weeks as monotherapy <<END_SECTION>>
+<<START_SUBHEADING>>Until disease progression or unacceptable toxicity <<END_SUBHEADING>>
+<<START_SECTION>>a Patients with a body weight of 30 kg or less must receive weight-based dosing, equivalent to IMFINZI 10 mg/kg every 2 weeks as monotherapy until weight increases to greater than 30 kg.  
+a Patients with a body weight of 30 kg or less must receive weight-based dosing, equivalent to IMFINZI 10 mg/kg every 2 weeks as monotherapy until weight increases to greater than 30 kg.  
+b Patients with a body weight of 30 kg or less must receive weight-based dosing, equivalent to IMFINZI 20 mg/kg in combination with chemotherapy every 3 weeks (21 days) for 4 cycles, followed by 10 mg/kg every 2 weeks as monotherapy until weight increases to greater than 30 kg. 
+c Administer IMFINZI prior to chemotherapy when given on the same day. 
+d When IMFINZI is administered in combination with chemotherapy, refer also to the Product Information for etoposide, and carboplatin or cisplatin, and to Section 5.1 for dosing information in the CASPIAN study. 
+ 
+It is recommended to continue treatment for clinically stable patients with initial evidence of disease progression until disease progression is confirmed. 
+Dose escalation or reduction is not recommended. Dose withholding or discontinuation may be required based on individual safety and tolerability.  
+No dose reduction or escalation for IMFINZI is recommended. In general, withhold IMFINZI for severe (Grade 3) immune-mediated adverse reactions. Permanently discontinue IMFINZI for lifethreatening (Grade 4) immune-mediated adverse reactions, recurrent severe (Grade 3) immunemediated reactions that require systemic immunosuppressive treatment, or an inability to reduce corticosteroid dose to 10 mg or less of prednisone or equivalent per day within 12 weeks of initiating corticosteroids. 
+Immune-mediated adverse reactions requiring specific management are summarized in Table 2.  
+Refer to Section 4.4 Special warnings and precautions for use for further monitoring and evaluation information. <<END_SECTION>>
+<<START_SUBHEADING>>Table 2 	Recommended treatment modifications and management for adverse reactions <<END_SUBHEADING>>
+<<START_SUBHEADING>>Adverse reactions <<END_SUBHEADING>>
+<<START_SECTION>>Severitya <<END_SECTION>>
+<<START_SUBHEADING>>IMFINZI treatment modification <<END_SUBHEADING>>
+<<START_SUBHEADING>>Additional management advice <<END_SUBHEADING>>
+<<START_SUBHEADING>>Pneumonitis/ <<END_SUBHEADING>>
+<<START_SUBHEADING>>interstitial lung disease <<END_SUBHEADING>>
+<<START_SUBHEADING>>Grade 2 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Withhold dose <<END_SUBHEADING>>
+<<START_SECTION>>Initiate 1 to 2 mg/kg/day prednisone or equivalent followed by a taper 
+Initiate 1 to 2 mg/kg/day prednisone or equivalent followed by a taper 
+1 to 4 mg/kg/day prednisone or equivalent followed by a taper 
+<<END_SECTION>>
+<<START_SUBHEADING>>Grade 3 or 4 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Permanently discontinue <<END_SUBHEADING>>
+<<START_SECTION>><<END_SECTION>>
+<<START_SUBHEADING>>Hepatitis <<END_SUBHEADING>>
+<<START_SECTION>>Grade 2 with ALT or AST > 3-5 x ULN and/or total bilirubin > 1.5-3 x ULN <<END_SECTION>>
+<<START_SUBHEADING>>Withhold dose <<END_SUBHEADING>>
+<<START_SECTION>>Initiate 1 to 2 mg/kg/day prednisone or equivalent followed by a taper 
+Initiate 1 to 2 mg/kg/day prednisone or equivalent followed by a taper 
+
+Grade 3 with AST or ALT > 5-ó 8 x ULN or total bilirubin > 3 - ó 5 x ULN 
+
+
+<<END_SECTION>>
+<<START_SUBHEADING>>Grade 3 with AST or ALT > 8 x ULN or total <<END_SUBHEADING>>
+<<START_SECTION>>
+
+
+<<END_SECTION>>
+<<START_SUBHEADING>>bilirubin > 5 x ULN <<END_SUBHEADING>>
+<<START_SUBHEADING>>Permanently discontinue <<END_SUBHEADING>>
+<<START_SECTION>>
+
+
+Concurrent ALT or AST > 3 x ULN and total bilirubin > 2 x ULN with no other cause 
+
+
+ <<END_SECTION>>
+<<START_SUBHEADING>>Colitis or diarrhoea <<END_SUBHEADING>>
+<<START_SUBHEADING>>Grade 2 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Withhold dose <<END_SUBHEADING>>
+<<START_SECTION>>Initiate 1 to 2 mg/kg/day prednisone or equivalent followed by a taper 
+Initiate 1 to 2 mg/kg/day prednisone or equivalent followed by a taper 
+<<END_SECTION>>
+<<START_SUBHEADING>>Grade 3 or 4 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Permanently discontinue <<END_SUBHEADING>>
+<<START_SECTION>>
+
+Endocrinopathies: <<END_SECTION>>
+<<START_SUBHEADING>>Hyperthyroidism, <<END_SUBHEADING>>
+<<START_SUBHEADING>>Thyroiditis <<END_SUBHEADING>>
+<<START_SUBHEADING>>Grade 2-4  <<END_SUBHEADING>>
+<<START_SUBHEADING>>Withhold dose until clinically stable <<END_SUBHEADING>>
+<<START_SUBHEADING>>Symptomatic management  <<END_SUBHEADING>>
+<<START_SECTION>>Endocrinopathies:  <<END_SECTION>>
+<<START_SUBHEADING>>Hypothyroidism <<END_SUBHEADING>>
+<<START_SUBHEADING>>Grade 2-4 <<END_SUBHEADING>>
+<<START_SUBHEADING>>No changes <<END_SUBHEADING>>
+<<START_SECTION>>Initiate thyroid hormone replacement as clinically indicated <<END_SECTION>>
+<<START_SUBHEADING>>Endocrinopathies:  Adrenal insufficiency, Hypophysitis/ hypopituitarism <<END_SUBHEADING>>
+<<START_SUBHEADING>>Grade 2-4 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Withhold dose until clinically stable <<END_SUBHEADING>>
+<<START_SECTION>>Initiate 1 to 2 mg/kg/day prednisone or equivalent followed by a taper and hormone replacement as clinically indicated <<END_SECTION>>
+<<START_SUBHEADING>>Endocrinopathies:  Type 1 diabetes <<END_SUBHEADING>>
+<<START_SUBHEADING>>mellitus <<END_SUBHEADING>>
+<<START_SUBHEADING>>Grade 2-4 <<END_SUBHEADING>>
+<<START_SUBHEADING>>No changes <<END_SUBHEADING>>
+<<START_SUBHEADING>>Initiate treatment with insulin as clinically <<END_SUBHEADING>>
+<<START_SUBHEADING>>indicated <<END_SUBHEADING>>
+<<START_SUBHEADING>>Nephritis <<END_SUBHEADING>>
+<<START_SECTION>>Grade 2 with serum creatinine > 1.5-3 x  (ULN or baseline) <<END_SECTION>>
+<<START_SUBHEADING>>Withhold dose <<END_SUBHEADING>>
+<<START_SECTION>>Initiate 1 to 2 mg/kg/day prednisone or equivalent followed by a taper 
+Initiate 1 to 2 mg/kg/day prednisone or equivalent followed by a taper 
+
+Grade 3 with serum creatinine > 3 x baseline or > 3-6 x ULN;  <<END_SECTION>>
+<<START_SUBHEADING>>Grade 4 with serum creatinine > 6 x ULN <<END_SUBHEADING>>
+<<START_SUBHEADING>>Permanently discontinue <<END_SUBHEADING>>
+<<START_SECTION>><<END_SECTION>>
+<<START_SUBHEADING>>Rash or dermatitis <<END_SUBHEADING>>
+<<START_SUBHEADING>>(including pemphigoid) <<END_SUBHEADING>>
+<<START_SUBHEADING>>Grade 2  	for > 1 week or Grade 3 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Withhold dose <<END_SUBHEADING>>
+<<START_SECTION>>Initiate 1 to 2 mg/kg/day prednisone or equivalent followed by a taper 
+Initiate 1 to 2 mg/kg/day prednisone or equivalent followed by a taper 
+<<END_SECTION>>
+<<START_SUBHEADING>>Grade 4 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Permanently discontinue <<END_SUBHEADING>>
+<<START_SECTION>><<END_SECTION>>
+<<START_SUBHEADING>>Myocarditis <<END_SUBHEADING>>
+<<START_SUBHEADING>>Grade 2 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Withhold doseb <<END_SUBHEADING>>
+<<START_SECTION>>Initiate 2 to 4 mg/kg/day prednisone or equivalent followed by a taper 
+Initiate 2 to 4 mg/kg/day prednisone or equivalent followed by a taper 
+<<END_SECTION>>
+<<START_SUBHEADING>>Grade 3 or 4, or any Grade with positive biopsy <<END_SUBHEADING>>
+<<START_SUBHEADING>>Permanently discontinue <<END_SUBHEADING>>
+<<START_SECTION>><<END_SECTION>>
+<<START_SUBHEADING>>Myositis/ polymyositis <<END_SUBHEADING>>
+<<START_SUBHEADING>>Grade 2 or 3 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Withhold dosec <<END_SUBHEADING>>
+<<START_SECTION>>Initiate 1 to 4 mg/kg/day prednisone or equivalent followed by a taper 
+Initiate 1 to 4 mg/kg/day prednisone or equivalent followed by a taper 
+<<END_SECTION>>
+<<START_SUBHEADING>>Grade 4 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Permanently discontinue <<END_SUBHEADING>>
+<<START_SECTION>><<END_SECTION>>
+<<START_SUBHEADING>>Infusion-related reactions <<END_SUBHEADING>>
+<<START_SUBHEADING>>Grade 1 or 2  <<END_SUBHEADING>>
+<<START_SECTION>>Interrupt or slow the rate of infusion 
+Interrupt or slow the rate of infusion 
+May consider premedications for prophylaxis of subsequent infusion <<END_SECTION>>
+<<START_SUBHEADING>>reactions <<END_SUBHEADING>>
+<<START_SECTION>><<END_SECTION>>
+<<START_SUBHEADING>>Grade 3 or 4  <<END_SUBHEADING>>
+<<START_SUBHEADING>>Permanently discontinue <<END_SUBHEADING>>
+<<START_SECTION>> <<END_SECTION>>
+<<START_SUBHEADING>>Infection <<END_SUBHEADING>>
+<<START_SUBHEADING>>Grade 3 or 4 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Withhold dose until clinically stable <<END_SUBHEADING>>
+<<START_SECTION>> <<END_SECTION>>
+<<START_SUBHEADING>>Other immunemediated  adverse reactionse <<END_SUBHEADING>>
+<<START_SUBHEADING>>Grade 3 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Withhold dosed <<END_SUBHEADING>>
+<<START_SECTION>>Initiate 1 mg/kg/day to 4 mg/kg/day prednisone or equivalent followed by a taper 
+Initiate 1 mg/kg/day to 4 mg/kg/day prednisone or equivalent followed by a taper 
+<<END_SECTION>>
+<<START_SUBHEADING>>Grade 4 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Permanently discontinue <<END_SUBHEADING>>
+<<START_SECTION>>
+
+a Common Terminology Criteria for Adverse Events, version 4.03. ALT: alanine aminotransferase; AST: aspartate aminotransferase; ULN: upper limit of normal. 
+b If no improvement within 3 to 5 days despite corticosteroids, promptly start additional immunosuppressive therapy. Upon resolution (Grade 0), corticosteroid taper should be initiated and continued over at least 1 month, after which IMFINZI can be resumed based on clinical judgment. 
+c Permanently discontinue IMFINZI if adverse reaction does not resolve to ó Grade 1 within 30 days or if there are signs of respiratory insufficiency. 
+d Permanently discontinue IMFINZI if adverse reaction does not resolve to ó Grade 1 within 30 days or if there are signs of respiratory insufficiency; and, in addition to these signs, for myasthenia gravis, if there are signs of autonomic insufficiency. 
+e Includes immune thrombocytopenia. 
+ 
+For suspected immune-mediated adverse reactions, adequate evaluation should be performed to confirm aetiology or exclude alternate aetiologies. Upon improvement to ó Grade 1, corticosteroid taper should be initiated and continued over at least 1 month. Consider increasing dose of corticosteroids and/or using additional systemic immunosuppressants if there is worsening or no improvement. After withhold, IMFINZI can be resumed within 12 weeks if the adverse reactions improved to ó Grade 1 and the corticosteroid dose has been reduced to ó 10 mg prednisone or equivalent per day. IMFINZI should be permanently discontinued for recurrent Grade 3 or 4 (severe or life-threatening) immune-mediated adverse reactions.  
+For non-immune-mediated adverse reactions, withhold IMFINZI for Grade 2 and 3 adverse reactions until ó Grade 1 or baseline. IMFINZI should be discontinued for Grade 4 adverse reactions (with the exception of Grade 4 laboratory abnormalities, about which the decision to discontinue should be based on accompanying clinical signs/symptoms and clinical judgment). <<END_SECTION>>
+<<START_SUBHEADING>>Special patient populations <<END_SUBHEADING>>
+<<START_SUBHEADING>>Renal impairment <<END_SUBHEADING>>
+<<START_SECTION>>No dose adjustment is recommended for patients with mild or moderate renal impairment (see Section 5.2 Pharmacokinetic properties). Durvalumab has not been studied in subjects with severe renal impairment. <<END_SECTION>>
+<<START_SUBHEADING>>Hepatic impairment <<END_SUBHEADING>>
+<<START_SECTION>>No dose adjustment is recommended for patients with hepatic impairment. Data from patients with moderate and severe hepatic impairment are limited, however, due to minor involvement of hepatic processes in the clearance of durvalumab, no difference in exposure is expected for these patients (see Section 5.2 Pharmacokinetic properties). <<END_SECTION>>
+<<START_SUBHEADING>>Use in paediatric patients <<END_SUBHEADING>>
+<<START_SECTION>>The safety and efficacy of durvalumab have not been established in patients younger than 18 years of age.   <<END_SECTION>>
+<<START_SUBHEADING>>Use in the elderly <<END_SUBHEADING>>
+<<START_SECTION>>No dose adjustment is required for elderly patients (ò65 years of age) (see Section 5.1 Pharmacodynamic properties - Clinical trials and Section 5.2 Pharmacokinetic properties). <<END_SECTION>>
+<<START_SUBHEADING>>Method of administration <<END_SUBHEADING>>
+<<START_SUBHEADING>>Preparation of solution <<END_SUBHEADING>>
+<<START_SECTION>>IMFINZI is supplied as single-dose vials and does not contain any preservatives. Aseptic technique must be observed. 
+IMFINZI is supplied as single-dose vials and does not contain any preservatives. Aseptic technique must be observed. 
+? Visually inspect drug product for particulate matter and discolouration. IMFINZI is a clear to opalescent, colourless to slightly yellow solution. Discard the vial if the solution is cloudy, discoloured or visible particles are observed. Do not shake the vial. 
+? Withdraw the required volume from the vial(s) of IMFINZI and transfer into an intravenous (IV) bag containing 0.9% Sodium Chloride Injection, or 5% Dextrose Injection. Mix diluted solution by gentle inversion. The final concentration of the diluted solution should be between 1 mg/mL and 15 mg/mL. Do not freeze or shake the solution. 
+
+? Care must be taken to ensure the sterility of prepared solutions. 
+? Do not re-enter the vial after withdrawal of drug; only withdraw one dose per vial. 
+? Discard any unused portion left in the vial. 
+? No incompatibilities between IMFINZI and 9 g/L (0.9%) sodium chloride or 50 g/L (5%) dextrose in polyvinylchloride or polyolefin IV bags have been observed. <<END_SECTION>>
+<<START_SUBHEADING>>After preparation of infusion solution <<END_SUBHEADING>>
+<<START_SECTION>>IMFINZI does not contain a preservative. Administer infusion solution immediately once prepared. If infusion solution is not administered immediately and it needs to be stored, the total time from vial puncture to the start of administration should not exceed: <<END_SECTION>>
+<<START_HEADING>>? 24 hours at 2øC to 8øC <<END_HEADING>>
+<<START_SECTION>>? 12 hours at room temperature. <<END_SECTION>>
+<<START_SUBHEADING>>Administration <<END_SUBHEADING>>
+<<START_SECTION>>Administer infusion solution intravenously over 1 hour through an intravenous line containing a sterile, low-protein binding 0.2 or 0.22 micron in-line filter. 
+Administer infusion solution intravenously over 1 hour through an intravenous line containing a sterile, low-protein binding 0.2 or 0.22 micron in-line filter. 
+Do not co-administer other drugs through the same infusion line. <<END_SECTION>>
+<<START_SUBHEADING>>4.3 	Contraindications <<END_SUBHEADING>>
+<<START_SECTION>>Hypersensitivity to the active substance or to any of the excipients listed in section 6.1. <<END_SECTION>>
+<<START_SUBHEADING>>4.4 	Special warnings and precautions for use <<END_SUBHEADING>>
+<<START_SECTION>>Refer to Section 4.2 Dose and method of administration Table 2 for recommended treatment modifications and management of adverse reactions. <<END_SECTION>>
+<<START_SUBHEADING>>Immune-mediated adverse reactions <<END_SUBHEADING>>
+<<START_SECTION>>Immune checkpoint inhibitors, including durvalumab, can cause severe and fatal immune-mediated adverse reactions, which may involve any organ system. While immune-mediated reactions usually manifest during treatment, they can also manifest after discontinuation.  Early identification of such reactions and timely intervention are an important part of the safe use of durvalumab. In clinical trials, most immune-mediated adverse reactions were reversible and managed with interruptions of durvalumab, administration of corticosteroids and/or supportive care. Patients should be monitored for signs and symptoms and managed as recommended in Table 2 (see Section 4.2 Dose and method of administration). <<END_SECTION>>
+<<START_SUBHEADING>>Immune-mediated pneumonitis <<END_SUBHEADING>>
+<<START_SECTION>>Immune-mediated pneumonitis/interstitial lung disease,* including fatal cases, occurred in patients receiving durvalumab in clinical trials (see Section 4.8 Adverse effects). 
+Immune-mediated pneumonitis/interstitial lung disease,* including fatal cases, occurred in patients receiving durvalumab in clinical trials (see Section 4.8 Adverse effects). 
+Pneumonitis is frequently observed in patients receiving radiation therapy to the lung and the clinical presentation of pneumonitis and radiation pneumonitis is very similar. In the PACIFIC Study, in patients who had completed treatment with at least 2 cycles of concurrent chemoradiation within 1 to 42 days prior to initiation of the trial, pneumonitis or radiation pneumonitis occurred in 161 (33.9%) patients in the IMFINZI-treated group and 58 (24.8%) in the placebo group, including Grade 3 (3.4% vs 3.0%) and Grade 5 (1.1% vs 1.7%). See also Section 4.8 Adverse effects.  
+Patients should be monitored for signs and symptoms of pneumonitis. Suspected pneumonitis should be confirmed with radiographic imaging and other infectious and disease-related aetiologies excluded, and managed as recommended in Table 2 (see Section 4.2 Dose and method of administration). <<END_SECTION>>
+<<START_SUBHEADING>>Immune-mediated hepatitis <<END_SUBHEADING>>
+<<START_SECTION>>Immune-mediated hepatitis,* including a fatal case, occurred in patients receiving durvalumab in clinical trials (see Section 4.8 Adverse effects). Patients should be monitored for abnormal liver tests prior to each infusion, and as indicated based on clinical evaluation during and after discontinuation of treatment with durvalumab. Immune-mediated hepatitis should be managed as recommended in Table 2 (see Section 4.2 Dose and method of administration). <<END_SECTION>>
+<<START_SUBHEADING>>Immune-mediated colitis <<END_SUBHEADING>>
+<<START_SECTION>>Immune-mediated colitis* occurred in patients receiving durvalumab in clinical trials (see Section 4.8 Adverse effects). Patients should be monitored for signs and symptoms of colitis (including diarrhoea) and managed as recommended in Table 2 (see Section 4.2 Dose and method of administration). <<END_SECTION>>
+<<START_SUBHEADING>>Immune-mediated endocrinopathies <<END_SUBHEADING>>
+<<START_SECTION>>Immune-mediated hypothyroidism/hyperthyroidism/thyroiditis 
+Immune-mediated hypothyroidism/hyperthyroidism/thyroiditis 
+Immune-mediated hypothyroidism, hyperthyroidism or thyroiditis have occurred in patients receiving durvalumab in clinical trials (see Section 4.8 Adverse effects). Patients should be monitored for abnormal thyroid function tests prior to and periodically during treatment and managed as recommended in Table 2 (see Section 4.2 Dose and method of administration). <<END_SECTION>>
+<<START_SUBHEADING>>Immune-mediated adrenal insufficiency <<END_SUBHEADING>>
+<<START_SECTION>>Immune-mediated adrenal insufficiency occurred in patients receiving durvalumab in clinical trials (see Section 4.8 Adverse effects). Patients should be monitored for clinical signs and symptoms of adrenal insufficiency. For symptomatic adrenal insufficiency, patients should be managed as recommended in Table 2 (see Section 4.2 Dose and method of administration). <<END_SECTION>>
+<<START_SUBHEADING>>Immune-mediated type 1 diabetes mellitus <<END_SUBHEADING>>
+<<START_SECTION>>Immune-mediated type 1 diabetes mellitus, which can present with diabetic ketoacidosis, occurred in patients receiving durvalumab in clinical trials (see Section 4.8 Adverse effects). Patients should be monitored for clinical signs and symptoms of type 1 diabetes mellitus. For symptomatic type 1 diabetes mellitus, patients should be managed as recommended in Table 2 (see Section 4.2 Dose and method of administration). <<END_SECTION>>
+<<START_SUBHEADING>>Immune-mediated hypophysitis/hypopituitarism <<END_SUBHEADING>>
+<<START_SECTION>>Immune-mediated hypophysitis/hypopituitarism occurred in patients receiving durvalumab in clinical trials (see Section 4.8 Adverse effects). Patients should be monitored for clinical signs and symptoms of hypophysitis or hypopituitarism. For symptomatic hypophysitis or hypopituitarism, patients should be managed as recommended in Table 2 (see Section 4.2 Dose and method of administration). <<END_SECTION>>
+<<START_SUBHEADING>>Immune-mediated nephritis <<END_SUBHEADING>>
+<<START_SECTION>>Immune-mediated nephritis* occurred in patients receiving durvalumab in clinical trials (see Section 4.8 Adverse effects). Patients should be monitored for abnormal renal function tests prior to and periodically during treatment with durvalumab and managed as recommended in Table 2 (see Section 4.2 Dose and method of administration). <<END_SECTION>>
+<<START_SUBHEADING>>Immune-mediated dermatological adverse reactions <<END_SUBHEADING>>
+<<START_SECTION>>Immune-mediated dermatitis (including pemphigoid)* occurred in patients receiving durvalumab in clinical trials (see Section 4.8 Adverse effects). Bullous dermatitis and Stevens-Johnson Syndrome (SJS)/toxic epidermal necrolysis (TEN) have occurred with other products in this class. Patients should be monitored for signs and symptoms dermatitis (including rash) and managed as recommended in Table 2 (see Section 4.2 Dose and method of administration). <<END_SECTION>>
+<<START_SUBHEADING>>Other immune mediated adverse reactions <<END_SUBHEADING>>
+<<START_SECTION>>Given the mechanism of action of durvalumab, other immune-mediated adverse reactions may occur. Other immune mediated adverse reactions are: aseptic meningitis, haemolytic anaemia, immune thrombocytopenia, myasthenia gravis, myocarditis, myositis, polymyositis and ocular inflammatory toxicity, including uveitis and keratitis.  Patients should be monitored for signs and symptoms of immune-mediated adverse reactions and managed as recommended in Table 2 (see Section 4.2 Dose and method of administration).  
+Given the mechanism of action of durvalumab, other immune-mediated adverse reactions may occur. Other immune mediated adverse reactions are: aseptic meningitis, haemolytic anaemia, immune thrombocytopenia, myasthenia gravis, myocarditis, myositis, polymyositis and ocular inflammatory toxicity, including uveitis and keratitis.  Patients should be monitored for signs and symptoms of immune-mediated adverse reactions and managed as recommended in Table 2 (see Section 4.2 Dose and method of administration).  
+Also see Section 4.8 Adverse effects, immune-mediated neurological adverse events in ongoing and completed trials. <<END_SECTION>>
+<<START_SUBHEADING>>Infusion-related reactions <<END_SUBHEADING>>
+<<START_SECTION>>Patients should be monitored for signs and symptoms of infusion-related reactions and managed as recommended in Table 2 (see Section 4.2 Dose and method of administration). Severe infusion related reactions have been reported in patients receiving durvalumab (see Section 4.8 Adverse effects). <<END_SECTION>>
+<<START_SUBHEADING>>Efficacy in patients with PD-L1 expression <1% <<END_SUBHEADING>>
+<<START_SECTION>>Post-hoc analyses suggest efficacy may be different for patients with PD-L1 <1%. Before initiating treatment, physicians are advised to carefully evaluate the individual patient and tumour characteristics, taking into consideration the observed benefits and the side effects of durvalumab (see sections 4.8 Adverse effects and 5.1 Pharmacological properties). <<END_SECTION>>
+<<START_SUBHEADING>>Use in the elderly <<END_SUBHEADING>>
+<<START_SECTION>>No overall differences in safety were observed between patients treated with IMFINZI who were ò 65 years of age compared to younger patients in the PACIFIC study (NSCLC). Data from NSCLC patients 75 years of age or older are limited. 
+No overall differences in safety were observed between patients treated with IMFINZI who were ò 65 years of age compared to younger patients in the PACIFIC study (NSCLC). Data from NSCLC patients 75 years of age or older are limited. 
+Of the 265 patients with ES-SCLC treated with IMFINZI in combination with chemotherapy, 101 (38%) patients were 65 years or older. There were no overall clinically meaningful differences in safety or effectiveness between patients ò 65 years of age and younger patients. 
+<<END_SECTION>>
+<<START_SUBHEADING>>Paediatric use <<END_SUBHEADING>>
+<<START_SECTION>>The safety and efficacy of durvalumab have not been established in patients younger than 18 years of age. <<END_SECTION>>
+<<START_SUBHEADING>>	4.5 	Interactions with other medicines and other forms of interactions <<END_SUBHEADING>>
+<<START_SECTION>>Durvalumab is an immunoglobulin. The primary elimination pathways of durvalumab are protein catabolism via reticuloendothelial system or target mediated disposition, therefore no formal pharmacokinetic (PK) drug-drug interaction studies have been conducted since no metabolic drugdrug interactions are expected. PK drug-drug interaction between durvalumab and etoposide, and carboplatin or cisplatin was assessed in the CASPIAN study and no clinically meaningful PK drugdrug interaction between durvalumab and the chemotherapy was identified. <<END_SECTION>>
+<<START_SUBHEADING>>	4.6 	Fertility, pregnancy and lactation <<END_SUBHEADING>>
+<<START_SUBHEADING>>Effects on fertility <<END_SUBHEADING>>
+<<START_SECTION>>There are no data on the effects of durvalumab on fertility in humans. In repeat-dose toxicology studies of durvalumab up to 3 months duration in sexually mature cynomolgus monkeys, there were no notable effects on the male and female reproductive organs. These animals received weekly doses of durvalumab yielding 11 times the clinical exposure (based on AUC) at the clinical dose of 1500 mg every 3 weeks and 23 times at the clinical dose of 10 mg/kg every 2 weeks. <<END_SECTION>>
+<<START_SUBHEADING>>Use in pregnancy ? Category D <<END_SUBHEADING>>
+<<START_SECTION>>There are no data on the use of durvalumab in pregnant women. Based on its mechanism of action, durvalumab has the potential to impact maintenance of pregnancy and may cause foetal harm when administered to a pregnant woman. Human IgG1 is known to cross the placental barrier; therefore, durvalumab has the potential to be transmitted from the mother to the developing foetus. Durvalumab use is not recommended during pregnancy. Women of childbearing potential should use effective contraception during treatment and for at least 3 months after the last dose. <<END_SECTION>>
+<<START_SUBHEADING>>Animal data <<END_SUBHEADING>>
+<<START_SECTION>>As reported in the literature, the PD-1/PD-L1 pathway plays a central role in preserving pregnancy by maintaining maternal immune tolerance to the foetus. In mouse allogeneic pregnancy models, disruption of PD-L1 signalling was shown to result in an increase in foetal loss. The effects of durvalumab on prenatal and postnatal development were evaluated in reproduction studies in cynomolgus monkeys. Durvalumab was administered from the confirmation of pregnancy through delivery at exposure levels approximately 3 to 11 times the clinical exposure (based on AUC) at the clinical dose of 1500 mg every 3 weeks and 6 to 20 times at the clinical dose of 10 mg/kg every 2 weeks. Administration of durvalumab resulted in premature delivery, foetal loss (abortion and stillbirth) and increase in neonatal deaths compared to concurrent controls. Durvalumab was detected in infant serum on postpartum Day 1, indicating the presence of placental transfer of durvalumab. Based on its mechanism of action, foetal exposure to durvalumab may increase the risk of developing immune-mediated disorders or altering the normal immune response and immunemediated disorders have been reported in PD-1 knockout mice. <<END_SECTION>>
+<<START_SUBHEADING>>Use in lactation <<END_SUBHEADING>>
+<<START_SECTION>>There is no information regarding the presence of durvalumab in human milk, the absorption and effects on the breast-fed infant, or the effects on milk production.  Human IgG is excreted in human milk. In animal reproduction studies, administration of durvalumab to pregnant cynomolgus monkeys was associated with dose-related low-level excretion of durvalumab in breast milk and was associated with premature neonatal death compared to concurrent controls. Because of the potential for adverse reactions in breastfed infants from durvalumab, lactating women should be advised not to breast-feed during treatment and for at least 3 months after the last dose. <<END_SECTION>>
+<<START_SUBHEADING>>	4.7 	Effects on ability to drive and use machines <<END_SUBHEADING>>
+<<START_SECTION>>Based on its pharmacodynamic properties, durvalumab is unlikely to affect the ability to drive and use machines. However, if patients experience adverse reactions affecting their ability to concentrate and react, they should be advised to use caution when driving or operating machinery. <<END_SECTION>>
+<<START_SUBHEADING>>	4.8 	Adverse effects (undesirable effects) <<END_SUBHEADING>>
+<<START_SUBHEADING>>Overall summary of adverse drug reactions <<END_SUBHEADING>>
+<<START_SECTION>>The safety of IMFINZI as monotherapy is based on pooled data in 3006 patients from 9 studies across multiple tumour types. IMFINZI was administered at a dose of 10 mg/kg every 2 weeks or 20 mg/kg every 4 weeks. The most frequent (>10%) adverse reactions were cough/productive cough (21.5%), diarrhoea (16.3%), rash (16.0%), pyrexia (13.8%), upper respiratory tract infections (13.5%), abdominal pain (12.7%), pruritus (10.8%) and hypothyroidism (10.1%). 
+The safety of IMFINZI as monotherapy is based on pooled data in 3006 patients from 9 studies across multiple tumour types. IMFINZI was administered at a dose of 10 mg/kg every 2 weeks or 20 mg/kg every 4 weeks. The most frequent (>10%) adverse reactions were cough/productive cough (21.5%), diarrhoea (16.3%), rash (16.0%), pyrexia (13.8%), upper respiratory tract infections (13.5%), abdominal pain (12.7%), pruritus (10.8%) and hypothyroidism (10.1%). 
+Tabulated list of adverse reactions 
+Table 3 lists the incidence of adverse reactions in the monotherapy safety dataset. Adverse drug reactions are listed according to system organ class in MedDRA. Within each system organ class, the adverse drug reactions are presented in decreasing frequency. Within each frequency grouping, adverse drug reactions are presented in order of decreasing seriousness. In addition, the corresponding frequency category for each ADR is based on the CIOMS III convention and is defined as: very common (ò 1/10); common (ò 1/100 to < 1/10); uncommon (ò 1/1,000 to < 1/100); rare (ò 1/10,000 to < 1/1000); very rare (< 1/10,000); not determined (cannot be estimated from available data).  <<END_SECTION>>
+<<START_SUBHEADING>>	Table 3 	Adverse drug reactions in patients treated with IMFINZI monotherapy <<END_SUBHEADING>>
+<<START_SECTION>> <<END_SECTION>>
+<<START_SUBHEADING>>IMFINZI Monotherapy <<END_SUBHEADING>>
+<<START_SECTION>><<END_SECTION>>
+<<START_SUBHEADING>>Any Grade (%) <<END_SUBHEADING>>
+<<START_SUBHEADING>>Grade 3-4 (%) <<END_SUBHEADING>>
+<<START_SUBHEADING>>Infections and infestations <<END_SUBHEADING>>
+<<START_SUBHEADING>>Upper respiratory tract infectionsa <<END_SUBHEADING>>
+<<START_HEADING>>Very common <<END_HEADING>>
+<<START_SUBHEADING>>13.5 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Uncommon <<END_SUBHEADING>>
+<<START_SUBHEADING>> 0.2 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Pneumoniab,c <<END_SUBHEADING>>
+<<START_SUBHEADING>>Common <<END_SUBHEADING>>
+<<START_SUBHEADING>>8.9 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Common <<END_SUBHEADING>>
+<<START_SUBHEADING>>3.5 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Oral candidiasis <<END_SUBHEADING>>
+<<START_SUBHEADING>>Common <<END_SUBHEADING>>
+<<START_SUBHEADING>>2.1 <<END_SUBHEADING>>
+<<START_SECTION>> <<END_SECTION>>
+<<START_SUBHEADING>>0 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Dental and oral soft tissue infectionsd <<END_SUBHEADING>>
+<<START_SUBHEADING>>Common <<END_SUBHEADING>>
+<<START_SUBHEADING>>1.7 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Rare <<END_SUBHEADING>>
+<<START_SUBHEADING>><0.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Influenza <<END_SUBHEADING>>
+<<START_SUBHEADING>>Common <<END_SUBHEADING>>
+<<START_SUBHEADING>>1.6 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Rare <<END_SUBHEADING>>
+<<START_SUBHEADING>><0.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Blood and lymphatic system disorders <<END_SUBHEADING>>
+<<START_SUBHEADING>>Immune thrombocytopenia <<END_SUBHEADING>>
+<<START_SUBHEADING>>Rare <<END_SUBHEADING>>
+<<START_SUBHEADING>><0.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Rare <<END_SUBHEADING>>
+<<START_SUBHEADING>><0.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Endocrine disorders <<END_SUBHEADING>>
+<<START_SECTION>>Hypothyroidisme <<END_SECTION>>
+<<START_HEADING>>Very common <<END_HEADING>>
+<<START_SUBHEADING>>10.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Uncommon <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.2 <<END_SUBHEADING>>
+<<START_SECTION>>Hyperthyroidismf <<END_SECTION>>
+<<START_SUBHEADING>>Common <<END_SUBHEADING>>
+<<START_SUBHEADING>>4.6 <<END_SUBHEADING>>
+<<START_SECTION>> <<END_SECTION>>
+<<START_SUBHEADING>>0 <<END_SUBHEADING>>
+<<START_SECTION>>Thyroiditisg <<END_SECTION>>
+<<START_SUBHEADING>>Uncommon <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.8 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Rare <<END_SUBHEADING>>
+<<START_SUBHEADING>><0.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Adrenal insufficiency <<END_SUBHEADING>>
+<<START_SUBHEADING>>Uncommon <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.6 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Rare <<END_SUBHEADING>>
+<<START_SUBHEADING>><0.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Type 1 diabetes mellitus  <<END_SUBHEADING>>
+<<START_SUBHEADING>>Rare <<END_SUBHEADING>>
+<<START_SUBHEADING>><0.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Rare <<END_SUBHEADING>>
+<<START_SUBHEADING>><0.1 <<END_SUBHEADING>>
+<<START_SECTION>>Hypophysitis/ <<END_SECTION>>
+<<START_SUBHEADING>>Hypopituitarism <<END_SUBHEADING>>
+<<START_SUBHEADING>>Rare <<END_SUBHEADING>>
+<<START_SUBHEADING>><0.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Rare <<END_SUBHEADING>>
+<<START_SUBHEADING>><0.1 <<END_SUBHEADING>>
+<<START_SECTION>> <<END_SECTION>>
+<<START_SUBHEADING>>IMFINZI Monotherapy <<END_SUBHEADING>>
+<<START_SECTION>><<END_SECTION>>
+<<START_SUBHEADING>>Any Grade (%) <<END_SUBHEADING>>
+<<START_SUBHEADING>>Grade 3-4 (%) <<END_SUBHEADING>>
+<<START_SUBHEADING>>Diabetes insipidus <<END_SUBHEADING>>
+<<START_SUBHEADING>>Rare <<END_SUBHEADING>>
+<<START_SUBHEADING>><0.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Rare <<END_SUBHEADING>>
+<<START_SUBHEADING>><0.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Nervous System Disorders <<END_SUBHEADING>>
+<<START_HEADING>>Myasthenia gravis <<END_HEADING>>
+<<START_SUBHEADING>>Not determinedh  <<END_SUBHEADING>>
+<<START_SECTION>> <<END_SECTION>>
+<<START_SUBHEADING>>Not determinedh <<END_SUBHEADING>>
+<<START_SECTION>> <<END_SECTION>>
+<<START_SUBHEADING>>Cardiac disorders <<END_SUBHEADING>>
+<<START_SUBHEADING>>Myocarditis <<END_SUBHEADING>>
+<<START_SUBHEADING>>Rare <<END_SUBHEADING>>
+<<START_SUBHEADING>><0.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Rare <<END_SUBHEADING>>
+<<START_SUBHEADING>><0.1 <<END_SUBHEADING>>
+<<START_SECTION>>Respiratory, thoracic and mediastinal disorders <<END_SECTION>>
+<<START_SUBHEADING>>Cough/Productive Cough <<END_SUBHEADING>>
+<<START_HEADING>>Very common <<END_HEADING>>
+<<START_SUBHEADING>>21.5 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Uncommon <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.4 <<END_SUBHEADING>>
+<<START_SECTION>>Pneumonitisc  <<END_SECTION>>
+<<START_SUBHEADING>>Common <<END_SUBHEADING>>
+<<START_SUBHEADING>>3.8  <<END_SUBHEADING>>
+<<START_SUBHEADING>>Uncommon <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.9 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Dysphonia <<END_SUBHEADING>>
+<<START_SUBHEADING>>Common <<END_SUBHEADING>>
+<<START_SUBHEADING>>3.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Rare <<END_SUBHEADING>>
+<<START_SUBHEADING>><0.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Interstitial lung disease  <<END_SUBHEADING>>
+<<START_SUBHEADING>>Uncommon <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.6 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Uncommon <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Gastrointestinal disorders <<END_SUBHEADING>>
+<<START_SUBHEADING>>Diarrhoea <<END_SUBHEADING>>
+<<START_HEADING>>Very common <<END_HEADING>>
+<<START_SUBHEADING>>16.3 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Uncommon <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.6 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Abdominal paini <<END_SUBHEADING>>
+<<START_HEADING>>Very common <<END_HEADING>>
+<<START_HEADING>>12.7 <<END_HEADING>>
+<<START_SUBHEADING>>Common <<END_SUBHEADING>>
+<<START_SUBHEADING>>1.8 <<END_SUBHEADING>>
+<<START_SECTION>>Colitisj <<END_SECTION>>
+<<START_SUBHEADING>>Uncommon <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.9 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Uncommon <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.3 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Hepatobiliary disorders <<END_SUBHEADING>>
+<<START_SECTION>>Aspartate aminotransferase increased or Alanine aminotransferase increasedc,k  <<END_SECTION>>
+<<START_SUBHEADING>>Common <<END_SUBHEADING>>
+<<START_SUBHEADING>>8.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Common <<END_SUBHEADING>>
+<<START_SUBHEADING>>2.3 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Hepatitisc,l <<END_SUBHEADING>>
+<<START_SUBHEADING>>Uncommon <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.8 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Uncommon <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.4 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Skin and subcutaneous tissue disorders <<END_SUBHEADING>>
+<<START_SECTION>>Rashm <<END_SECTION>>
+<<START_HEADING>>Very common <<END_HEADING>>
+<<START_SUBHEADING>>16.0 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Uncommon <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.6 <<END_SUBHEADING>>
+<<START_SECTION>>Pruritusn <<END_SECTION>>
+<<START_HEADING>>Very common <<END_HEADING>>
+<<START_SUBHEADING>>10.8 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Rare <<END_SUBHEADING>>
+<<START_SUBHEADING>><0.1 <<END_SUBHEADING>>
+<<START_HEADING>>Night sweats <<END_HEADING>>
+<<START_SUBHEADING>>Common  <<END_SUBHEADING>>
+<<START_SUBHEADING>>1.6 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Rare <<END_SUBHEADING>>
+<<START_SUBHEADING>><0.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Dermatitis <<END_SUBHEADING>>
+<<START_SUBHEADING>>Uncommon  <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.7 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Rare <<END_SUBHEADING>>
+<<START_SUBHEADING>><0.1 <<END_SUBHEADING>>
+<<START_SECTION>>Pemphigoido <<END_SECTION>>
+<<START_SUBHEADING>>Rare  <<END_SUBHEADING>>
+<<START_SUBHEADING>><0.1 <<END_SUBHEADING>>
+<<START_SECTION>> <<END_SECTION>>
+<<START_SUBHEADING>>0 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Musculoskeletal and connective tissue disorders <<END_SUBHEADING>>
+<<START_SECTION>> <<END_SECTION>>
+<<START_SUBHEADING>>Myalgia <<END_SUBHEADING>>
+<<START_SUBHEADING>>Common <<END_SUBHEADING>>
+<<START_SUBHEADING>>5.9 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Rare <<END_SUBHEADING>>
+<<START_SUBHEADING>><0.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Myositis <<END_SUBHEADING>>
+<<START_SUBHEADING>>Uncommon <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.2 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Rare <<END_SUBHEADING>>
+<<START_SUBHEADING>><0.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Polymyositis <<END_SUBHEADING>>
+<<START_SUBHEADING>>Not determinedp  <<END_SUBHEADING>>
+<<START_SECTION>> <<END_SECTION>>
+<<START_SUBHEADING>>Not determinedp <<END_SUBHEADING>>
+<<START_SECTION>> 
+ 
+Renal and urinary disorders <<END_SECTION>>
+<<START_SUBHEADING>>Blood creatinine increased <<END_SUBHEADING>>
+<<START_SUBHEADING>>Common <<END_SUBHEADING>>
+<<START_SUBHEADING>>3.5 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Rare <<END_SUBHEADING>>
+<<START_SUBHEADING>><0.1 <<END_SUBHEADING>>
+<<START_SECTION>>Dysuria <<END_SECTION>>
+<<START_SUBHEADING>>Common <<END_SUBHEADING>>
+<<START_SUBHEADING>>1.3 <<END_SUBHEADING>>
+<<START_SECTION>> <<END_SECTION>>
+<<START_SUBHEADING>>0 <<END_SUBHEADING>>
+<<START_SECTION>>Nephritisq <<END_SECTION>>
+<<START_SUBHEADING>>Uncommon <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.3 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Rare <<END_SUBHEADING>>
+<<START_SUBHEADING>><0.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>General disorders and administration site conditions <<END_SUBHEADING>>
+<<START_SECTION>>Pyrexia <<END_SECTION>>
+<<START_HEADING>>Very common <<END_HEADING>>
+<<START_SUBHEADING>>13.8 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Uncommon <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.3 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Peripheral oedemar  <<END_SUBHEADING>>
+<<START_SUBHEADING>>Common <<END_SUBHEADING>>
+<<START_SUBHEADING>>9.7 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Uncommon <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.3 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Injury, poisoning and procedural complications <<END_SUBHEADING>>
+<<START_SECTION>> <<END_SECTION>>
+<<START_SUBHEADING>>Infusion related reactions <<END_SUBHEADING>>
+<<START_SUBHEADING>>Common <<END_SUBHEADING>>
+<<START_SUBHEADING>>1.6 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Uncommon <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.2 <<END_SUBHEADING>>
+<<START_SECTION>>a includes laryngitis, nasopharyngitis, peritonsillar abscess, pharyngitis, rhinitis, sinusitis, tonsillitis, tracheobronchitis and upper respiratory tract infection. 
+a includes laryngitis, nasopharyngitis, peritonsillar abscess, pharyngitis, rhinitis, sinusitis, tonsillitis, tracheobronchitis and upper respiratory tract infection. 
+b includes lung infection, pneumocystis jirovecii pneumonia, pneumonia, pneumonia adenoviral, pneumonia bacterial, pneumonia cytomegaloviral, pneumonia haemophilus, pneumonia pneumococcal, pneumonia streptococcal, candida pneumonia and pneumonia legionella. 
+c including fatal outcome.  d 	includes gingivitis, oral infection, periodontitis, pulpitis dental, tooth abscess and tooth infection.  e 	includes autoimmune hypothyroidism, hypothyroidism. f 	includes hyperthyroidism and Basedow's disease. g 	includes autoimmune thyroiditis, thyroiditis, and thyroiditis subacute. 
+h Reported frequency from AstraZeneca-sponsored clinical studies outside of the pooled dataset is rare, with no events at  Grade > 2. 
+i includes abdominal pain, abdominal pain lower, abdominal pain upper and flank pain. j 	includes colitis, enteritis, enterocolitis, and proctitis. 
+k includes alanine aminotransferase increased, aspartate aminotransferase increased, hepatic enzyme increased and transaminases increased. 
+l includes hepatitis, autoimmune hepatitis, hepatitis toxic, hepatocellular injury, hepatitis acute, hepatotoxicity and immunemediated hepatitis. 
+m includes rash erythematous, rash generalised, rash macular, rash maculopapular, rash papular, rash pruritic, rash pustular, erythema, eczema and rash.  
+n includes pruritus generalised and pruritus. o 	includes pemphigoid, dermatitis bullous and pemphigus. Reported frequency from completed and ongoing trials is uncommon. 
+p Polymyositis (fatal) was observed in a patient treated with IMFINZI from an ongoing sponsored clinical study outside of the pooled dataset: rare in any grade, rare in Grade 3 or 4 or 5.  
+q includes autoimmune nephritis, tubulointerstitial nephritis, nephritis, glomerulonephritis and glomerulonephritis membranous. r 	includes oedema peripheral and peripheral swelling. s 	includes infusion related reaction and urticaria with onset on the day of dosing or 1 day after dosing. 
+The data described below reflect exposure to IMFINZI as a single agent, in patients with locally advanced, unresectable NSCLC in the PACIFIC study (see 5.1 Pharmacodynamic properties ? Clinical trials) and in patients with ES-SCLC enrolled in the CASPIAN study. 
+Tabulated list of adverse events 
+Adverse events are listed according to MedDRA system organ class. Within each system organ class, the adverse events are presented in decreasing frequency.  <<END_SECTION>>
+<<START_SUBHEADING>>Locally advanced NSCLC ? PACIFIC study <<END_SUBHEADING>>
+<<START_SECTION>>The safety of IMFINZI in patients with locally advanced NSCLC who completed concurrent platinum-based chemoradiotherapy within 42 days prior to initiation of study drug was evaluated in the PACIFIC study, a multicentre, randomised, double-blind, placebo-controlled study. A total of 475 patients received IMFINZI 10 mg/kg intravenously every 2 weeks. The study excluded patients who had disease progression following chemoradiation, with active or prior autoimmune disease within 2 years of initiation of the study or with medical conditions that required systemic immunosuppression (see 5.1 Pharmacodynamic properties ? Clinical trials). 
+The safety of IMFINZI in patients with locally advanced NSCLC who completed concurrent platinum-based chemoradiotherapy within 42 days prior to initiation of study drug was evaluated in the PACIFIC study, a multicentre, randomised, double-blind, placebo-controlled study. A total of 475 patients received IMFINZI 10 mg/kg intravenously every 2 weeks. The study excluded patients who had disease progression following chemoradiation, with active or prior autoimmune disease within 2 years of initiation of the study or with medical conditions that required systemic immunosuppression (see 5.1 Pharmacodynamic properties ? Clinical trials). 
+The study population characteristics were: median age of 64 years (range: 23 to 90), 45% age 65 years or older, 70% male, 69% White, 27% Asian, 75% former smoker, 16% current smoker, and 51% had WHO performance status of 1. All patients received definitive radiotherapy as per protocol, of which 92% received a total radiation dose of 54 Gy to 66 Gy. The median duration of exposure to IMFINZI was 10 months (range: 0.2 to 12.6). 
+IMFINZI was discontinued due to adverse events in 15% of patients. The most common adverse events leading to IMFINZI discontinuation were pneumonitis or radiation pneumonitis in 6% of patients. Serious adverse events occurred in 29% of patients receiving IMFINZI. The most frequent serious adverse events reported in at least 2% of patients were pneumonitis or radiation pneumonitis (7%) and pneumonia (6%). Fatal pneumonitis or radiation pneumonitis and fatal pneumonia occurred in < 2% of patients and were similar across arms. The most common adverse events (occurring in ò 20% of patients) were cough, fatigue, pneumonitis or radiation pneumonitis, upper respiratory tract infections, dyspnoea and rash. 
+Table 4 summarises the adverse events that occurred in at least 10% of patients treated with IMFINZI. 
+Table 4 	Treatment-emergent adverse events occurring in at least 10% of patients in the PACIFIC Study 
+ <<END_SECTION>>
+<<START_SUBHEADING>>IMFINZI  N=475 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Placeboa N=234 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Adverse reaction <<END_SUBHEADING>>
+<<START_SUBHEADING>>All grades (%) <<END_SUBHEADING>>
+<<START_SUBHEADING>>Grades 3-4 (%) <<END_SUBHEADING>>
+<<START_SUBHEADING>>All grades (%) <<END_SUBHEADING>>
+<<START_SUBHEADING>>Grades 3-4 (%) <<END_SUBHEADING>>
+<<START_SECTION>>Respiratory, thoracic and mediastinal disorders 
+Respiratory, thoracic and mediastinal disorders 
+<<END_SECTION>>
+<<START_SUBHEADING>>Cough/productive cough <<END_SUBHEADING>>
+<<START_SUBHEADING>>40 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.6 <<END_SUBHEADING>>
+<<START_SUBHEADING>>30 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.4 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Pneumonitisb/radiation pneumonitis  <<END_SUBHEADING>>
+<<START_SUBHEADING>>34 <<END_SUBHEADING>>
+<<START_SUBHEADING>>3.4 <<END_SUBHEADING>>
+<<START_SUBHEADING>>25 <<END_SUBHEADING>>
+<<START_SUBHEADING>>3.0 <<END_SUBHEADING>>
+<<START_SECTION>>Dyspnoeac <<END_SECTION>>
+<<START_SUBHEADING>>25 <<END_SUBHEADING>>
+<<START_SUBHEADING>>1.5 <<END_SUBHEADING>>
+<<START_SUBHEADING>>25 <<END_SUBHEADING>>
+<<START_SUBHEADING>>2.6 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Gastrointestinal disorders <<END_SUBHEADING>>
+<<START_SECTION>><<END_SECTION>>
+<<START_SUBHEADING>>Diarrhoea <<END_SUBHEADING>>
+<<START_SUBHEADING>>18 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.6 <<END_SUBHEADING>>
+<<START_SUBHEADING>>19 <<END_SUBHEADING>>
+<<START_SUBHEADING>>1.3 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Abdominal paind <<END_SUBHEADING>>
+<<START_SUBHEADING>>10 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.4 <<END_SUBHEADING>>
+<<START_SUBHEADING>>6 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.4 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Endocrine disorders <<END_SUBHEADING>>
+<<START_SECTION>>
+
+Hypothyroidisme <<END_SECTION>>
+<<START_SUBHEADING>>12 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.2 <<END_SUBHEADING>>
+<<START_SUBHEADING>>1.7 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Skin and subcutaneous tissue disorders <<END_SUBHEADING>>
+<<START_SECTION>>
+
+Rashf <<END_SECTION>>
+<<START_SUBHEADING>>23 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.6 <<END_SUBHEADING>>
+<<START_SUBHEADING>>12 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0 <<END_SUBHEADING>>
+<<START_SECTION>>Pruritusg <<END_SECTION>>
+<<START_SUBHEADING>>12 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0 <<END_SUBHEADING>>
+<<START_SUBHEADING>>6 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0 <<END_SUBHEADING>>
+<<START_SUBHEADING>>General disorders and administration site conditions <<END_SUBHEADING>>
+<<START_SECTION>>
+
+Fatigueh <<END_SECTION>>
+<<START_SUBHEADING>>34 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.8 <<END_SUBHEADING>>
+<<START_SUBHEADING>>32 <<END_SUBHEADING>>
+<<START_SUBHEADING>>1.3 <<END_SUBHEADING>>
+<<START_SECTION>>Pyrexia <<END_SECTION>>
+<<START_SUBHEADING>>15 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.2 <<END_SUBHEADING>>
+<<START_SUBHEADING>>9 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Infections  <<END_SUBHEADING>>
+<<START_SECTION>><<END_SECTION>>
+<<START_SUBHEADING>>Upper respiratory tract infectionsi <<END_SUBHEADING>>
+<<START_SUBHEADING>>26 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.4 <<END_SUBHEADING>>
+<<START_SUBHEADING>>19 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0 <<END_SUBHEADING>>
+<<START_SECTION>>Pneumoniaj <<END_SECTION>>
+<<START_SUBHEADING>>17 <<END_SUBHEADING>>
+<<START_SUBHEADING>>7 <<END_SUBHEADING>>
+<<START_SUBHEADING>>12 <<END_SUBHEADING>>
+<<START_SUBHEADING>>6 <<END_SUBHEADING>>
+<<START_SECTION>>a The PACIFIC study was not designed to demonstrate statistically significant difference in adverse event rates for IMFINZI, as compared to placebo, for any specific adverse event listed in Table 4 
+a The PACIFIC study was not designed to demonstrate statistically significant difference in adverse event rates for IMFINZI, as compared to placebo, for any specific adverse event listed in Table 4 
+b includes acute interstitial pneumonitis, interstitial lung disease, pneumonitis, pulmonary fibrosis c 	includes dyspnoea and exertional dyspnoea 
+d includes abdominal pain, abdominal pain lower, abdominal pain upper, and flank pain 
+e includes autoimmune hypothyroidism and hypothyroidism  
+f includes rash erythematous, rash generalized, rash macular, rash maculopapular, rash papular, rash pruritic, rash pustular, erythema, eczema, rash and dermatitis 
+g includes pruritus generalized and pruritus h 	includes asthenia and fatigue i 	includes laryngitis, nasopharyngitis, peritonsillar abscess, pharyngitis, rhinitis, sinusitis, tonsillitis, tracheobronchitis, and upper respiratory tract infection 
+j 	includes lung infection, pneumocystis jirovecii pneumonia, pneumonia, pneumonia adenoviral, pneumonia bacterial, pneumonia cytomegaloviral, pneumonia haemophilus, pneumonia klebsiella, pneumonia necrotising, pneumonia pneumococcal, and pneumonia streptococcal 
+ 
+Other adverse events occurring in less than 10% of patients treated with IMFINZI were dysphonia, dysuria, night sweats, peripheral oedema, and increased susceptibility to infections. <<END_SECTION>>
+<<START_SUBHEADING>>Small Cell Lung Cancer (ES-SCLC) ? CASPIAN Study <<END_SUBHEADING>>
+<<START_SECTION>>The safety of IMFINZI in combination with etoposide and either carboplatin or cisplatin in previously untreated ES-SCLC was evaluated in CASPIAN, a randomized, open-label, multicentre, active-controlled trial. A total of 265 patients received IMFINZI 1500 mg in combination with chemotherapy every 3 weeks for 4 cycles followed by IMFINZI 1500 mg every 4 weeks until disease progression or unacceptable toxicity. The trial excluded patients with active or prior autoimmune disease or with medical conditions that required systemic corticosteroids or immunosuppressants [see 5.1 Pharmacodynamic properties ? Clinical trials). 
+The safety of IMFINZI in combination with etoposide and either carboplatin or cisplatin in previously untreated ES-SCLC was evaluated in CASPIAN, a randomized, open-label, multicentre, active-controlled trial. A total of 265 patients received IMFINZI 1500 mg in combination with chemotherapy every 3 weeks for 4 cycles followed by IMFINZI 1500 mg every 4 weeks until disease progression or unacceptable toxicity. The trial excluded patients with active or prior autoimmune disease or with medical conditions that required systemic corticosteroids or immunosuppressants [see 5.1 Pharmacodynamic properties ? Clinical trials). 
+Among 266 patients receiving chemotherapy alone, 57% of the patients received 6 cycles of chemotherapy and 8% of the patients received PCI after chemotherapy. 
+IMFINZI was discontinued due to adverse reactions in 7% of the patients receiving IMFINZI plus chemotherapy. These include pneumonitis, hepatotoxicity, neurotoxicity, sepsis, diabetic ketoacidosis and pancytopenia (1 patient each). Serious adverse reactions occurred in 31% of patients receiving IMFINZI plus chemotherapy. The most frequent serious adverse reactions reported in at least 1% of patients were febrile neutropenia (4.5%), pneumonia (2.3%), anaemia (1.9%), pancytopenia (1.5%), pneumonitis (1.1%)  and COPD (1.1%). Fatal adverse reactions occurred in 4.9% of patients receiving IMFINZI plus chemotherapy. These include pancytopenia, sepsis, septic shock, pulmonary artery thrombosis, pulmonary embolism, and hepatitis (1 patient each) and sudden death (2 patients). The most common adverse reactions (occurring in ò 20% of patients) were nausea, fatigue/asthenia and alopecia. 
+Table 5 summarises the adverse reactions that occurred in patients treated with IMFINZI plus chemotherapy.  
+	Table 5 	Adverse Reactions Occurring in ò 10% Patients in the CASPIAN study  
+ 
+IMFINZI with etoposide and either carboplatin or cisplatin  N = 265 <<END_SECTION>>
+<<START_SUBHEADING>>Etoposide and either carboplatin  or cisplatin  <<END_SUBHEADING>>
+<<START_SUBHEADING>>N = 266 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Adverse Reaction <<END_SUBHEADING>>
+<<START_SUBHEADING>>All Grades (%) <<END_SUBHEADING>>
+<<START_SUBHEADING>>Grade 3-4 (%) <<END_SUBHEADING>>
+<<START_SUBHEADING>>All Grades (%) <<END_SUBHEADING>>
+<<START_SUBHEADING>>Grade 3-4 (%) <<END_SUBHEADING>>
+<<START_SECTION>>Respiratory, thoracic and mediastinal disorders 
+Respiratory, thoracic and mediastinal disorders 
+<<END_SECTION>>
+<<START_SUBHEADING>>Cough/Productive Cough <<END_SUBHEADING>>
+<<START_SUBHEADING>>15 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.8 <<END_SUBHEADING>>
+<<START_SUBHEADING>>9 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Gastrointestinal disorders <<END_SUBHEADING>>
+<<START_SECTION>><<END_SECTION>>
+<<START_SUBHEADING>>Nausea <<END_SUBHEADING>>
+<<START_SUBHEADING>>34 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.4 <<END_SUBHEADING>>
+<<START_SUBHEADING>>34 <<END_SUBHEADING>>
+<<START_SUBHEADING>>1.9 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Constipation <<END_SUBHEADING>>
+<<START_SUBHEADING>>17 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.8 <<END_SUBHEADING>>
+<<START_SUBHEADING>>19 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Vomiting <<END_SUBHEADING>>
+<<START_SUBHEADING>>15 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0 <<END_SUBHEADING>>
+<<START_SUBHEADING>>17 <<END_SUBHEADING>>
+<<START_SUBHEADING>>1.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Diarrhoea <<END_SUBHEADING>>
+<<START_SUBHEADING>>10 <<END_SUBHEADING>>
+<<START_SUBHEADING>>1.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>11 <<END_SUBHEADING>>
+<<START_SUBHEADING>>1.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Endocrine disorders <<END_SUBHEADING>>
+<<START_SECTION>>
+
+Hyperthyroidisma <<END_SECTION>>
+<<START_SUBHEADING>>10 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.4 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Skin and subcutaneous tissue disorders <<END_SUBHEADING>>
+<<START_SECTION>><<END_SECTION>>
+<<START_SUBHEADING>>Alopecia <<END_SUBHEADING>>
+<<START_SUBHEADING>>31 <<END_SUBHEADING>>
+<<START_SUBHEADING>>1.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>34 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.8 <<END_SUBHEADING>>
+<<START_SECTION>>Rashb <<END_SECTION>>
+<<START_SUBHEADING>>11 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0 <<END_SUBHEADING>>
+<<START_SUBHEADING>>6 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0 <<END_SUBHEADING>>
+<<START_SUBHEADING>>General disorders and administration site conditions <<END_SUBHEADING>>
+<<START_SECTION>><<END_SECTION>>
+<<START_SUBHEADING>>Fatigue/Asthenia  <<END_SUBHEADING>>
+<<START_SUBHEADING>>32 <<END_SUBHEADING>>
+<<START_SUBHEADING>>3.4 <<END_SUBHEADING>>
+<<START_SUBHEADING>>32 <<END_SUBHEADING>>
+<<START_SUBHEADING>>2.3 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Metabolism and nutrition disorders <<END_SUBHEADING>>
+<<START_SECTION>><<END_SECTION>>
+<<START_SUBHEADING>>Decreased appetite <<END_SUBHEADING>>
+<<START_SUBHEADING>>18 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.8 <<END_SUBHEADING>>
+<<START_SUBHEADING>>17 <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.8 <<END_SUBHEADING>>
+<<START_SUBHEADING>>a Includes hyperthyroidism and Basedow's disease  <<END_SUBHEADING>>
+<<START_SECTION>>b Includes rash erythematous, rash generalised, rash macular, rash maculopapular, rash papular, rash pruritic, rash pustular, erythema, eczema, rash and dermatitis  
+b Includes rash erythematous, rash generalised, rash macular, rash maculopapular, rash papular, rash pruritic, rash pustular, erythema, eczema, rash and dermatitis  
+ 
+Table 6 summarises the laboratory abnormalities that occurred in at least 20% of patients treated with IMFINZI plus chemotherapy. 
+Table 6 	Laboratory Abnormalities Worsening from Baseline Occurring in ò 20%1 of Patients in the CASPIAN study  
+ <<END_SECTION>>
+<<START_SUBHEADING>>IMFINZI with Etoposide and either Carboplatin or Cisplatin  <<END_SUBHEADING>>
+<<START_SUBHEADING>>Etoposide and either <<END_SUBHEADING>>
+<<START_SUBHEADING>>Carboplatin or Cisplatin  <<END_SUBHEADING>>
+<<START_SUBHEADING>>Laboratory Abnormality <<END_SUBHEADING>>
+<<START_SUBHEADING>>Grade2 3 or 4 (%)3 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Grade2 3 or 4 (%)3 <<END_SUBHEADING>>
+<<START_HEADING>>Chemistry <<END_HEADING>>
+<<START_SECTION>>
+
+
+Hyponatraemia <<END_SECTION>>
+<<START_SUBHEADING>>11 <<END_SUBHEADING>>
+<<START_SUBHEADING>>13 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Hypomagnesemia <<END_SUBHEADING>>
+<<START_SUBHEADING>>11 <<END_SUBHEADING>>
+<<START_SUBHEADING>>6 <<END_SUBHEADING>>
+<<START_SECTION>>Hyperglycaemia <<END_SECTION>>
+<<START_SUBHEADING>>5 <<END_SUBHEADING>>
+<<START_SUBHEADING>>5 <<END_SUBHEADING>>
+<<START_HEADING>>Increased Alkaline Phosphatase <<END_HEADING>>
+<<START_SUBHEADING>>4.9 <<END_SUBHEADING>>
+<<START_SUBHEADING>>3.5 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Increased ALT <<END_SUBHEADING>>
+<<START_SUBHEADING>>4.9 <<END_SUBHEADING>>
+<<START_SUBHEADING>>2.7 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Increased AST <<END_SUBHEADING>>
+<<START_SUBHEADING>>4.6 <<END_SUBHEADING>>
+<<START_SUBHEADING>>1.2 <<END_SUBHEADING>>
+<<START_SECTION>>Hypocalcaemia <<END_SECTION>>
+<<START_SUBHEADING>>3.5 <<END_SUBHEADING>>
+<<START_SUBHEADING>>2.4 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Blood creatinine increased <<END_SUBHEADING>>
+<<START_SUBHEADING>>3.4 <<END_SUBHEADING>>
+<<START_SUBHEADING>>1.1 <<END_SUBHEADING>>
+<<START_SECTION>>Hyperkalaemia <<END_SECTION>>
+<<START_SUBHEADING>>1.5 <<END_SUBHEADING>>
+<<START_SUBHEADING>>3.1 <<END_SUBHEADING>>
+<<START_SECTION>>TSH decreased < LLN4 and ò LLN at baseline <<END_SECTION>>
+<<START_HEADING>>NA <<END_HEADING>>
+<<START_HEADING>>NA <<END_HEADING>>
+<<START_SUBHEADING>>Haematology <<END_SUBHEADING>>
+<<START_SECTION>>
+
+<<END_SECTION>>
+<<START_SUBHEADING>>Neutropenia  <<END_SUBHEADING>>
+<<START_SUBHEADING>>41 <<END_SUBHEADING>>
+<<START_SUBHEADING>>48 <<END_SUBHEADING>>
+<<START_SECTION>>Lymphopenia <<END_SECTION>>
+<<START_SUBHEADING>>14 <<END_SUBHEADING>>
+<<START_SUBHEADING>>13 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Anaemia <<END_SUBHEADING>>
+<<START_SUBHEADING>>13 <<END_SUBHEADING>>
+<<START_SUBHEADING>>22 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Thrombocytopenia <<END_SUBHEADING>>
+<<START_SUBHEADING>>12 <<END_SUBHEADING>>
+<<START_SUBHEADING>>15 <<END_SUBHEADING>>
+<<START_SECTION>>1 The frequency cut off is based on any grade change from baseline <<END_SECTION>>
+<<START_SUBHEADING>>2 Graded according to NCI CTCAE version 4.03 <<END_SUBHEADING>>
+<<START_SECTION>>3 Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: IMFINZI (range: 258 to 263) and chemotherapy (range: 253 to 262) except magnesium IMFINZI + chemotherapy (18) and chemotherapy (16)  <<END_SECTION>>
+<<START_SUBHEADING>>4 LLN = lower limit of normal <<END_SUBHEADING>>
+<<START_SECTION>> <<END_SECTION>>
+<<START_SUBHEADING>>Laboratory abnormalities  <<END_SUBHEADING>>
+<<START_SECTION>>In patients treated with durvalumab monotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 2.4% for alanine aminotransferase increased, 3.6% for aspartate aminotransferase increased and 0.5% for blood creatinine increased. The proportion of patients who experienced a shift from baseline to any grade was 18.8% for TSH elevated > ULN and above baseline and 18.1% for TSH decreased < LLN and below baseline. 
+In patients treated with durvalumab monotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 2.4% for alanine aminotransferase increased, 3.6% for aspartate aminotransferase increased and 0.5% for blood creatinine increased. The proportion of patients who experienced a shift from baseline to any grade was 18.8% for TSH elevated > ULN and above baseline and 18.1% for TSH decreased < LLN and below baseline. 
+In patients treated with durvalumab in combination with chemotherapy, the proportion of patients who experienced a shift from baseline to a Grade 3 or 4 laboratory abnormality was as follows: 4.9% for alanine aminotransferase increased, 4.6% for aspartate aminotransferase increased and 3.4% for blood creatinine increased. The proportion of patients who experienced a shift from baseline to any grade was 17.7% for TSH elevated > ULN and above baseline and 31.3% for TSH decreased < LLN and below baseline. <<END_SECTION>>
+<<START_SUBHEADING>>Description of selected adverse reactions <<END_SUBHEADING>>
+<<START_SECTION>>The data below reflect information for significant adverse reactions for IMFINZI as monotherapy in the pooled safety dataset across tumour types (n=3006). Significant adverse reactions for IMFINZI when given in combination with chemotherapy were consistent with IMFINZI monotherapy and did not present clinically relevant differences. 
+The data below reflect information for significant adverse reactions for IMFINZI as monotherapy in the pooled safety dataset across tumour types (n=3006). Significant adverse reactions for IMFINZI when given in combination with chemotherapy were consistent with IMFINZI monotherapy and did not present clinically relevant differences. 
+The management guidelines for these adverse reactions are described in sections 4.2 and 4.4. <<END_SECTION>>
+<<START_SUBHEADING>>Immune-mediated pneumonitis <<END_SUBHEADING>>
+<<START_SECTION>>In patients receiving IMFINZI monotherapy, immune-mediated pneumonitis occurred in 92 (3.1%) patients, including Grade 3 in 25 (0.8%) patients, Grade 4 in 2 (< 0.1%) patients, and Grade 5 in 6 (0.2%) patients. The median time to onset was 55 days (range: 2-785 days). Sixty-nine of the 92 patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day), 2 patients also received infliximab and 1 patient also received cyclosporine. IMFINZI was discontinued in 38 patients. Resolution occurred in 53 patients.   
+In patients receiving IMFINZI monotherapy, immune-mediated pneumonitis occurred in 92 (3.1%) patients, including Grade 3 in 25 (0.8%) patients, Grade 4 in 2 (< 0.1%) patients, and Grade 5 in 6 (0.2%) patients. The median time to onset was 55 days (range: 2-785 days). Sixty-nine of the 92 patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day), 2 patients also received infliximab and 1 patient also received cyclosporine. IMFINZI was discontinued in 38 patients. Resolution occurred in 53 patients.   
+Immune-mediated pneumonitis occurred more frequently in patients in the PACIFIC Study who had completed treatment with concurrent chemoradiation within 1 to 42 days prior to initiation of the study (9.9%), compared to the other patients in the combined safety database (1.8%). In the PACIFIC Study, (n= 475 in the IMFINZI arm, and n= 234 in the placebo arm) immune-mediated pneumonitis occurred in 47 (9.9%) patients in the IMFINZI treated group and 14 (6.0%) patients in the placebo group, including Grade 3 in 9 (1.9%) patients on IMFINZI vs. 6 (2.6%) patients on placebo and Grade 5 (fatal) in 4 (0.8%) patients on IMFINZI vs. 3 (1.3%) patients on placebo. The median time to onset in the IMFINZI treated group was 46 days (range: 2- 342 days) vs. 57 days (range: 26 - 253 days) in the placebo group. In the IMFINZI treated group, 30 patients received high dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day), and 2 patients also received infliximab. In the placebo group, 12 patients received high dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day) and 1 patient also received cyclophosphamide and tacrolimus. Resolution occurred for 29 patients in the IMFINZI treated group vs 6 in placebo. <<END_SECTION>>
+<<START_SUBHEADING>>Immune-mediated hepatitis <<END_SUBHEADING>>
+<<START_SECTION>>In patients receiving IMFINZI monotherapy, immune-mediated hepatitis occurred in 67 (2.2%) patients, including Grade 3 in 35 (1.2%) patients, Grade 4 in 6 (0.2%) and Grade 5 in 4 (0.1%) patient. The median time to onset was 36 days (range: 3-333 days). Forty-four of the 67 patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). Three patients also received mycophenolate treatment. IMFINZI was discontinued in 9 patients. Resolution occurred in 29 patients. <<END_SECTION>>
+<<START_SUBHEADING>>Immune-mediated colitis <<END_SUBHEADING>>
+<<START_SECTION>>In patients receiving IMFINZI monotherapy, immune-mediated colitis or diarrhoea occurred in 58 (1.9%) patients, including Grade 3 in 9 (0.3%) patients and Grade 4 in 2 (<0.1%) patients. The median time to onset was 70 days (range: 1-394 days). Thirty-eight of the 58 patients received highdose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). One patient also received infliximab treatment and one patient also received mycophenolate treatment. IMFINZI was discontinued in 9 patients. Resolution occurred in 43 patients. <<END_SECTION>>
+<<START_SUBHEADING>>Immune-mediated endocrinopathies <<END_SUBHEADING>>
+<<START_SUBHEADING>>Immune-mediated hypothyroidism <<END_SUBHEADING>>
+<<START_SECTION>>In patients receiving IMFINZI monotherapy, immune-mediated hypothyroidism occurred in 245 
+In patients receiving IMFINZI monotherapy, immune-mediated hypothyroidism occurred in 245 
+(8.2%) patients, including Grade 3 in 4 ( 0.1%) patients. The median time to onset was 85 days 
+(range: 1-562 days).  Of the 245 patients, 240 patients received hormone replacement therapy, 6 patients received high-dose corticosteroids (at least 40 mg prednisone or equivalent per day) for immune-mediated hypothyroidism followed by hormone replacement. No patients discontinued IMFINZI due to immune-mediated hypothyroidism. Immune-mediated hypothyroidism was preceded by immune-mediated hyperthyroidism in 20 patients or immune-mediated thyroiditis in  3 patients.  <<END_SECTION>>
+<<START_SUBHEADING>>Immune-mediated hyperthyroidism <<END_SUBHEADING>>
+<<START_SECTION>>In patients receiving IMFINZI monotherapy, immune-mediated hyperthyroidism occurred in 50 (1.7%) patients, there were no Grade 3 or 4 cases. The median time to onset was 43 days (range:  1-253 days). Forty six of the 50 patients received medical therapy (thiamazole, carbimazole, propylthiouracil, perchlorate, calcium channel blocker, or beta-blocker), 11 patients received systemic corticosteroids and 4 of the 11 patients received high-dose systemic corticosteroid treatment (at least 40 mg prednisone or equivalent per day). One patient discontinued IMFINZI  due to immune-mediated hyperthyroidism. Resolution occurred in 39 patients. <<END_SECTION>>
+<<START_SUBHEADING>>Immune-mediated thyroiditis <<END_SUBHEADING>>
+<<START_SECTION>>In patients receiving IMFINZI monotherapy, immune-mediated thyroiditis occurred in 12 (0.4%) patients, including Grade 3 in 2 ( <0.1%) patients. The median time to onset was 49 days (range: 14-106 days). Of the 12 patients, 10 patients received hormone replacement therapy, 1 patient received high-dose corticosteroids (at least 40 mg prednisone or equivalent per day). One patient discontinued IMFINZI due to immune-mediated thyroiditis.    <<END_SECTION>>
+<<START_SUBHEADING>>Immune-mediated adrenal insufficiency <<END_SUBHEADING>>
+<<START_SECTION>>In patients receiving IMFINZI monotherapy, immune-mediated adrenal insufficiency occurred in 14 (0.5%) patients, including Grade 3 in 3 (<0.1%) patients. The median time to onset was 145.5 days (range: 20-547 days). All 14 patients received systemic corticosteroids; 4 of the 14 patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). No patients discontinued IMFINZI due to immune-mediated adrenal insufficiency. Resolution occurred in 3 patients.  <<END_SECTION>>
+<<START_SUBHEADING>>Immune-mediated type 1 diabetes mellitus <<END_SUBHEADING>>
+<<START_SECTION>>In patients receiving IMFINZI monotherapy, immune-mediate type 1 diabetes mellitus occurred in 
+In patients receiving IMFINZI monotherapy, immune-mediate type 1 diabetes mellitus occurred in 
+16 (0.5%) patients including Grade 3 in 6 (0.2%) patients. The median time to onset was 43 days (range 9-196). Fourteen of the 16 patients received endocrine therapy and 3 out of 16 patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day).  One patient discontinued IMFINZI due to immune-mediated type 1 diabetes mellitus. Resolution occurred in 11 patients.   <<END_SECTION>>
+<<START_SUBHEADING>>Immune-mediated hypophysitis/hypopituitarism <<END_SUBHEADING>>
+<<START_SECTION>>In patients receiving IMFINZI monotherapy, immune-mediated hypophysitis/hypopituitarism occurred in 2 (<0.1%) patients both Grade 3. The time to onset for the events was 44 days and 50 days. Both patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day) and one patient discontinued IMFINZI due to immune-mediated hypophysitis/hypopituitarism. <<END_SECTION>>
+<<START_SUBHEADING>>Immune-mediated nephritis  <<END_SUBHEADING>>
+<<START_SECTION>>In patients receiving IMFINZI monotherapy, immune-mediated nephritis occurred in 14 (0.5%) patients, including Grade 3 in 2 (<0.1%) patients. The median time to onset was 71 days (range:  4-393 days). Nine patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day) and 1 patient  also received mycophenolate. IMFINZI was discontinued in 5 patients. Resolution occurred in 8 patients. <<END_SECTION>>
+<<START_SUBHEADING>>Immune-mediated rash <<END_SUBHEADING>>
+<<START_SECTION>>In patients receiving IMFINZI monotherapy, immune-mediated rash or dermatitis (including pemphigoid) occurred in 50 (1.7%) patients, including Grade 3 in 12 (0.4%) patients. The median time to onset was 43 days (range: 4-333 days). Twenty-four of the 50 patients received high-dose corticosteroid treatment (at least 40 mg prednisone or equivalent per day). IMFINZI was discontinued in 3 patients. Resolution occurred in 31 patients. <<END_SECTION>>
+<<START_SUBHEADING>>Immune-mediated neurological adverse events in ongoing and completed trials <<END_SUBHEADING>>
+<<START_SUBHEADING>>Meningitis, encephalitis, and Guillain-Barre syndrome. <<END_SUBHEADING>>
+<<START_SUBHEADING>>Infusion-related reactions <<END_SUBHEADING>>
+<<START_SECTION>>In patients receiving IMFINZI monotherapy, infusion related reactions occurred in 49 (1.6%) patients, including Grade 3 in 5 (0.2%) patients. There were no Grade 4 or 5 events. <<END_SECTION>>
+<<START_SUBHEADING>>Reporting of suspected adverse reactions <<END_SUBHEADING>>
+<<START_SECTION>>Reporting suspected adverse reactions after registration of the medicinal product is important. It allows continued monitoring of the benefit-risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions at http://www.tga.gov.au/reporting-problems. <<END_SECTION>>
+<<START_SUBHEADING>>	4.9 	Overdose <<END_SUBHEADING>>
+<<START_SECTION>>There is no specific treatment in the event of durvalumab overdose, and symptoms of overdose are not established. In the event of an overdose, physicians should follow general supportive measures and should treat symptomatically. 
+There is no specific treatment in the event of durvalumab overdose, and symptoms of overdose are not established. In the event of an overdose, physicians should follow general supportive measures and should treat symptomatically. 
+For information on the management of overdose, contact the Poison Information Centre on 131126 (Australia). <<END_SECTION>>
+<<START_SUBHEADING>>	5 	PHARMACOLOGICAL PROPERTIES <<END_SUBHEADING>>
+<<START_SUBHEADING>>	5.1 	Pharmacodynamic properties <<END_SUBHEADING>>
+<<START_SUBHEADING>>Mechanism of action <<END_SUBHEADING>>
+<<START_SECTION>>Expression of programmed cell death ligand-1 (PD-L1) protein is an adaptive immune response that helps tumours evade detection and elimination by the immune system. PD-L1 expression can be induced by inflammatory signals (e.g. IFN-gamma) and can be expressed on both tumour cells and tumour-associated immune cells in tumour microenvironment. PD-L1 blocks T-cell function and activation through interaction with PD-1 and CD80 (B7.1). By binding to its receptors, PD-L1 reduces cytotoxic T-cell activity, proliferation, and cytokine production. 
+Expression of programmed cell death ligand-1 (PD-L1) protein is an adaptive immune response that helps tumours evade detection and elimination by the immune system. PD-L1 expression can be induced by inflammatory signals (e.g. IFN-gamma) and can be expressed on both tumour cells and tumour-associated immune cells in tumour microenvironment. PD-L1 blocks T-cell function and activation through interaction with PD-1 and CD80 (B7.1). By binding to its receptors, PD-L1 reduces cytotoxic T-cell activity, proliferation, and cytokine production. 
+Durvalumab is a fully human, high affinity, immunoglobulin G1 kappa (IgG1?) monoclonal antibody that blocks the interaction of PD-L1 with PD-1 and CD80 (B7.1). Durvalumab does not induce antibody dependent cell-mediated cytotoxicity (ADCC). Blockade of PD-L1/PD-1 and PDL1/CD80 interactions enhances antitumour immune responses. These antitumour responses may result in tumour elimination. 
+In preclinical studies, PD-L1 blockade by durvalumab led to increased T-cell activation and decreased tumour size in xenograft mouse models of human melanoma and/or pancreatic cancer cells as well as mouse syngeneic colorectal cancer. <<END_SECTION>>
+<<START_SUBHEADING>>Clinical trials <<END_SUBHEADING>>
+<<START_SECTION>>Durvalumab doses of 10 mg/kg every 2 weeks or 1500 mg every 4 weeks were evaluated in NSCLC and ES-SCLC clinical studies. Based on the modelling and simulation of exposure, exposure-safety relationships and exposure-efficacy data comparisons, there are no anticipated clinically significant differences in efficacy and safety between durvalumab doses of 10 mg/kg every 2 weeks or 1500 mg every 4 weeks. <<END_SECTION>>
+<<START_SUBHEADING>>Non-small cell lung cancer (NSCLC) <<END_SUBHEADING>>
+<<START_SECTION>>Randomised, placebo-controlled phase 3 study in patients with locally advanced, unresectable NSCLC after chemoradiation (PACIFIC study) 
+Randomised, placebo-controlled phase 3 study in patients with locally advanced, unresectable NSCLC after chemoradiation (PACIFIC study) 
+The efficacy of IMFINZI was evaluated in the PACIFIC study, a randomised, double-blind, placebo-controlled, multicentre study in 713 patients with histologically or cytologically confirmed locally advanced, unresectable NSCLC. Patients had completed at least 2 cycles of definitive platinum-based chemotherapy with radiation therapy within 1 to 42 days prior to initiation of the study and had an ECOG performance status of 0 or 1. Ninety-two percent of patients had received a total dose of 54 to 66 Gy of radiation. The study excluded patients who had progressed following chemoradiation therapy, patients with prior exposure to any anti-PD-1 or anti-PD-L1 antibody, patients with active or prior documented autoimmune disease within 2 years of initiation of the study; a history of immunodeficiency; a history of severe immune-mediated adverse reactions; medical conditions that required systemic immunosuppression(except physiological dose of systemic corticosteroids); active tuberculosis or hepatitis B or C or HIV infection or patients receiving live attenuated vaccine within 30 days before or after the start of IMFINZI. Patients were randomised 2:1 to receive 10 mg/kg IMFINZI (n=476) or 10 mg/kg placebo (n=237) via intravenous infusion every 2 weeks for up to 12 months or until unacceptable toxicity or confirmed disease progression. Randomisation was stratified by gender, age (<65 years vs. ò 65 years) and smoking status (smoker vs. non- smoker). Patients with disease control at 12 months were given the option to be re-treated upon disease progression. Tumour assessments were conducted every 8 weeks for the first 12 months and then every 12 weeks thereafter. 
+Patients were enrolled regardless of their tumour PD-L1 expression level. Where available, archival tumour tissue specimens taken prior to chemoradiation therapy were retrospectively tested for PDL1 expression on tumour cells (TC) using the VENTANA PD-L1 (SP263) IHC assay. Of the 713 patients randomised, 63% of patients provided a tissue sample of sufficient quality and quantity to determine PD-L1 expression and 37% were unknown.  
+The demographics and baseline disease characteristics were well balanced between study arms. Baseline demographics of the overall study population were as follows: male (70%), age ò 65 years (45%), white (69%), Asian (27%), other (4%), current smoker (16%), past-smoker (75%), and never smoker (9%), WHO/ECOG PS 0 (49%), WHO/ECOG PS 1 (51%). Disease characteristics were as follows: Stage IIIA (53%), Stage IIIB (45%), histological sub-groups of squamous (46%), non-squamous (54%). Of 451 patients with PD L1 expression available, 67% were TC ò 1% [PDL1 TC 1-24% (32%), PD L1 TC ò 25% (35%)] and 33% were TC < 1%. 
+The two primary endpoints of the study were progression-free survival (PFS) and overall survival (OS) of IMFINZI vs. placebo. Secondary efficacy endpoints included PFS at 12 months (PFS 12) and 18 months (PFS 18) from randomisation and Time from Randomisation to Second Progression (PFS2). PFS was assessed by Blinded Independent Central Review (BICR) according to RECIST <<END_SECTION>>
+<<START_SUBHEADING>>1.1.  <<END_SUBHEADING>>
+<<START_SECTION>>The study demonstrated a statistically significant improvement in PFS and OS in the IMFINZItreated group compared with the placebo group (see Table 7 and Figure 1 and Figure 2). <<END_SECTION>>
+<<START_SUBHEADING>>	Table 7 	Efficacy Results for the PACIFIC Studya  <<END_SUBHEADING>>
+<<START_SECTION>> <<END_SECTION>>
+<<START_SUBHEADING>>IMFINZI  (n= 476) <<END_SUBHEADING>>
+<<START_SUBHEADING>>Placebo (n= 237) <<END_SUBHEADING>>
+<<START_HEADING>>OS <<END_HEADING>>
+<<START_SECTION>><<END_SECTION>>
+<<START_SUBHEADING>>Number of deaths (%) <<END_SUBHEADING>>
+<<START_SUBHEADING>>183 (38.4%) <<END_SUBHEADING>>
+<<START_SUBHEADING>>116 (48.9%) <<END_SUBHEADING>>
+<<START_SECTION>>Median (months)  (95% CI) <<END_SECTION>>
+<<START_SUBHEADING>>NR <<END_SUBHEADING>>
+<<START_SUBHEADING>>(34.7, NR)  <<END_SUBHEADING>>
+<<START_SUBHEADING>>28.7 <<END_SUBHEADING>>
+<<START_SUBHEADING>>(22.9, NR) <<END_SUBHEADING>>
+<<START_SECTION>> 	HR (95% CI)  
+ 	HR (95% CI)  
+0.68 (0.53, 0.87) <<END_SECTION>>
+<<START_SUBHEADING>> 	2- sided p-value  <<END_SUBHEADING>>
+<<START_SUBHEADING>>0.00251 <<END_SUBHEADING>>
+<<START_SECTION>> 	OS at 24 months (%)  	(95% CI) <<END_SECTION>>
+<<START_SUBHEADING>>66.3% <<END_SUBHEADING>>
+<<START_SUBHEADING>>(61.7%, 70.4%) <<END_SUBHEADING>>
+<<START_SUBHEADING>>55.6% <<END_SUBHEADING>>
+<<START_SUBHEADING>>(48.9%, 61.8%) <<END_SUBHEADING>>
+<<START_HEADING>> 	p-value <<END_HEADING>>
+<<START_SUBHEADING>>0.005 <<END_SUBHEADING>>
+<<START_SUBHEADING>>PFS <<END_SUBHEADING>>
+<<START_SECTION>><<END_SECTION>>
+<<START_SUBHEADING>>Number of events (%) <<END_SUBHEADING>>
+<<START_SUBHEADING>>214 (45.0%) <<END_SUBHEADING>>
+<<START_SUBHEADING>>157 (66.2%) <<END_SUBHEADING>>
+<<START_SECTION>>Median PFS (months)  (95% CI) <<END_SECTION>>
+<<START_SUBHEADING>>16.8  <<END_SUBHEADING>>
+<<START_SUBHEADING>>(13.0, 18.1)  <<END_SUBHEADING>>
+<<START_SUBHEADING>>5.6  <<END_SUBHEADING>>
+<<START_SUBHEADING>>(4.6, 7.8) <<END_SUBHEADING>>
+<<START_SECTION>>HR (95% CI)  
+HR (95% CI)  
+0.52 (0.42, 0.65) <<END_SECTION>>
+<<START_HEADING>>p-value  <<END_HEADING>>
+<<START_SUBHEADING>>p < 0.0001 <<END_SUBHEADING>>
+<<START_SECTION>>PFS at 12 months (%) (95% CI) <<END_SECTION>>
+<<START_SUBHEADING>>55.9% <<END_SUBHEADING>>
+<<START_SUBHEADING>>(51.0%, 60.4%) <<END_SUBHEADING>>
+<<START_SUBHEADING>>    35.3% (29.0%, 41.7%)  <<END_SUBHEADING>>
+<<START_SECTION>>PFS at 18 months (%) (95% CI) <<END_SECTION>>
+<<START_SUBHEADING>>44.2% <<END_SUBHEADING>>
+<<START_SUBHEADING>>(37.7%, 50.5%) <<END_SUBHEADING>>
+<<START_SUBHEADING>>27.0% <<END_SUBHEADING>>
+<<START_SUBHEADING>>(19.9%, 34.5%) <<END_SUBHEADING>>
+<<START_SECTION>>PFS2 
+PFS2 
+
+Median PFS2b (months) (95% CI) <<END_SECTION>>
+<<START_SUBHEADING>>28.3 <<END_SUBHEADING>>
+<<START_SUBHEADING>>(25.1, 34.7) <<END_SUBHEADING>>
+<<START_SUBHEADING>>17.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>(14.5, 20.7) <<END_SUBHEADING>>
+<<START_SECTION>>HR (95% CI) 
+HR (95% CI) 
+0.58 (0.46, 0.73) <<END_SECTION>>
+<<START_HEADING>>p-value <<END_HEADING>>
+<<START_SUBHEADING>>p < 0.0001 <<END_SUBHEADING>>
+<<START_SECTION>>a The analysis of OS was performed approximately 13 months after the primary analysis of PFS. 
+a The analysis of OS was performed approximately 13 months after the primary analysis of PFS. 
+b PFS2 is defined as the time from the date of randomisation until the date of second progression (defined by local standard clinical practice) or death. <<END_SECTION>>
+<<START_SUBHEADING>>NR: Not Reached <<END_SUBHEADING>>
+<<START_SECTION>> 
+ 
+	Figure 1 	Kaplan-Meier curve of OS (PACIFIC study) 
+
+	Month 	33 	36 	39 	42 	45 <<END_SECTION>>
+<<START_SUBHEADING>>	IMFINZI 	57 	23 	2 	0 	0 <<END_SUBHEADING>>
+<<START_SECTION>>	Placebo 	237 	220 	198 	178 	170 	155 	141 	130 	117 	78 	42 	21 	9 	3 	1 	0 
+	Placebo 	237 	220 	198 	178 	170 	155 	141 	130 	117 	78 	42 	21 	9 	3 	1 	0 
+ 
+ 
+	Figure 2 	Kaplan-Meier curve of PFS (PACIFIC study) 
+
+	Month 	0 	3 	6 	9 	12 	15 	18 	21 	24 	27 	30 
+
+IMFINZI 	476 	377 	301 	264 	159 	86 	44 	21 	4 	1 	0 Placebo 	237 	163 	106 	87 	52 	28 	15 	4 	3 	0 	0 
+ 
+The improvements in PFS and OS in favour of patients receiving IMFINZI compared to those receiving placebo were consistently observed in all predefined subgroups analysed, including ethnicity, age, gender, smoking history, EGFR mutation status and histology. ALK mutation status was not analysed in this study. <<END_SECTION>>
+<<START_SUBHEADING>>Post-hoc subgroup analysis by PD-L1 expression <<END_SUBHEADING>>
+<<START_SECTION>>Additional subgroup analyses were conducted to evaluate the efficacy by tumour PD-L1 expression (ò 25%, 1-24%, ò 1%, < 1%) and for patients whose PD-L1 status could not be established (PD-L1 unknown). PFS and OS results are summarised in Figure 3 and Figure 4. Overall the safety profile of durvalumab in PD-L1 TC ò1% subgroup was consistent with the intent to treat population, as was the PD-L1 TC <1% subgroup.  
+Additional subgroup analyses were conducted to evaluate the efficacy by tumour PD-L1 expression (ò 25%, 1-24%, ò 1%, < 1%) and for patients whose PD-L1 status could not be established (PD-L1 unknown). PFS and OS results are summarised in Figure 3 and Figure 4. Overall the safety profile of durvalumab in PD-L1 TC ò1% subgroup was consistent with the intent to treat population, as was the PD-L1 TC <1% subgroup.  
+	Figure 3 	Forest plot of OS by PD-L1 expression (PACIFIC study) 
+ 
+	Figure 4 	Forest plot of PFS by PD-L1 expression (PACIFIC study) 
+ <<END_SECTION>>
+<<START_SUBHEADING>>Patient reported outcomes <<END_SUBHEADING>>
+<<START_SECTION>>Patient-reported symptoms, function and health-related quality of life (HRQoL) were collected using the EORTC QLQ-C30 and its lung cancer module (EORTC QLQ-LC13). The LC13 and C30 were assessed at baseline and every 4 weeks for the first 8 weeks, then every 8 weeks until completion of the treatment period or discontinuation of study drug due to toxicity or disease progression. Compliance was similar between the IMFINZI and placebo treatment groups (83% vs 85.1% overall of evaluable forms completed). 
+Patient-reported symptoms, function and health-related quality of life (HRQoL) were collected using the EORTC QLQ-C30 and its lung cancer module (EORTC QLQ-LC13). The LC13 and C30 were assessed at baseline and every 4 weeks for the first 8 weeks, then every 8 weeks until completion of the treatment period or discontinuation of study drug due to toxicity or disease progression. Compliance was similar between the IMFINZI and placebo treatment groups (83% vs 85.1% overall of evaluable forms completed). 
+At baseline, no differences in patient reported symptoms, function or HRQoL were observed between IMFINZI and placebo groups. Throughout the duration of the study to week 48, there was no clinically meaningful difference between IMFINZI and placebo groups in symptoms, functioning and HRQoL (as assessed by a difference of greater than or equal to 10 points). <<END_SECTION>>
+<<START_SUBHEADING>>Small Cell Lung Cancer (SCLC) <<END_SUBHEADING>>
+<<START_SECTION>>The efficacy of IMFINZI in combination with etoposide and either carboplatin or cisplatin in previously untreated ES-SCLC patients was investigated in CASPIAN, a randomised, open-label, multicentre study in treatment na‹ve ES-SCLC patients with WHO/ECOG performance status of  0 or 1. Patients in the trial were eligible to receive a platinum-based chemotherapy regimen as firstline treatment for SCLC, with life expectancy ò12 weeks, at least one target lesion by RECIST 1.1 and adequate organ and bone marrow function. Patients with asymptomatic or treated brain metastases were permitted. The study excluded patients with a history of chest radiation therapy;  a history of active primary immunodeficiency; autoimmune disorders including paraneoplastic syndrome (PNS); active or prior documented autoimmune or inflammatory disorders; use of systemic immunosuppressants within 14 days before the first dose of the treatment except physiological dose of systemic corticosteroids; active tuberculosis or hepatitis B or C or HIV infection; or patients receiving live attenuated vaccine within 30 days before or after the start of IMFINZI. 
+The efficacy of IMFINZI in combination with etoposide and either carboplatin or cisplatin in previously untreated ES-SCLC patients was investigated in CASPIAN, a randomised, open-label, multicentre study in treatment na‹ve ES-SCLC patients with WHO/ECOG performance status of  0 or 1. Patients in the trial were eligible to receive a platinum-based chemotherapy regimen as firstline treatment for SCLC, with life expectancy ò12 weeks, at least one target lesion by RECIST 1.1 and adequate organ and bone marrow function. Patients with asymptomatic or treated brain metastases were permitted. The study excluded patients with a history of chest radiation therapy;  a history of active primary immunodeficiency; autoimmune disorders including paraneoplastic syndrome (PNS); active or prior documented autoimmune or inflammatory disorders; use of systemic immunosuppressants within 14 days before the first dose of the treatment except physiological dose of systemic corticosteroids; active tuberculosis or hepatitis B or C or HIV infection; or patients receiving live attenuated vaccine within 30 days before or after the start of IMFINZI. 
+Randomisation was stratified by the planned platinum-based therapy in cycle 1 (carboplatin or cisplatin). 
+? The evaluation of efficacy for ES-SCLC relied on comparison between: Arm 1: IMFINZI 1500 mg + etoposide (80-100 mg/m2) and either carboplatin (AUC 5 or 6 mg/mL/min) or cisplatin (75-80 mg/m2) 
+? Arm 2: Either carboplatin (AUC 5 or 6 mg/mL/min) or cisplatin (75-80 mg/m2) on Day 1 and etoposide (80-100 mg/m2) intravenously on Days 1, 2, and 3 of each 21-day cycle for between 4 and 6 cycles. 
+ 
+For patients randomised to Arm 1 , etoposide and either carboplatin or cisplatin was limited to 4 cycles every 3 weeks subsequent to randomisation. IMFINZI monotherapy continued until disease progression or unacceptable toxicity. Administration of IMFINZI monotherapy was permitted beyond disease progression if the patient was clinically stable and deriving clinical benefit as determined by the investigator. 
+Patients randomised to Arm 2, were permitted to receive a total of up to 6 cycles of etoposide and either carboplatin or cisplatin. After completion of chemotherapy, prophylactic cranial irradiation (PCI) was permitted only in Arm 2 per investigator discretion. 
+Tumour assessments were conducted at Week 6 and Week 12 from the date of randomisation, and then every 8 weeks until confirmed objective disease progression. Survival assessments were conducted every 2 months following treatment discontinuation. 
+The primary endpoints of the study were Overall Survival (OS) of IMFINZI + chemotherapy (Arm 
+1) vs. chemotherapy alone (Arm 2). The key secondary endpoint was progression-free survival (PFS). Other secondary endpoints were Objective Response Rate (ORR), OS and PFS landmarks and Patient Reported Outcomes (PRO). PFS and ORR were assessed using Investigator assessments according to RECIST v1.1. 
+At a planned interim analysis, IMFINZI + chemotherapy (Arm 1) vs chemotherapy (Arm 2) met the efficacy boundary of the primary endpoint of OS and at a planned follow-up OS analysis IMFINZI + chemotherapy (Arm 1) vs chemotherapy (Arm 2) continued to demonstrate improved OS. The results are summarised below. 
+The demographics and baseline disease characteristics were well balanced between the study arms (268 patients in Arm 1 and 269 patients in Arm 2). Baseline demographics of the overall study population were as follows: male (69.6%), age ò 65 years (39.6%), median age 63 years (range: 28 to 82 years), white (83.8%), Asian (14.5%), black or African American (0.9%), other (0.6 %), non-Hispanic or Latino (96.1%), current or past-smoker (93.1%), never smoker (6.9%), WHO/ECOG PS 0 (35.2%), WHO/ECOG PS 1 (64.8%), Stage IV 90.3%, 24.6% of the patients received cisplatin and 74.1% of the patients received carboplatin. In Arm 1, 1.1% of the patients received ò5 cycles of chemotherapy and 0.4% of the patients received ò6 cycles of chemotherapy based on etoposide exposure. In Arm 2, 62.8% of the patients received ò5 treatment cycles, 56.8% of the patients received the maximum of 6 treatment cycles based on etoposide exposure and 7.8% of the patients received PCI after chemotherapy.  
+The study demonstrated a statistically significant and clinically meaningful improvement in OS at the planned interim analysis with IMFINZI + chemotherapy (Arm 1) vs. chemotherapy alone (Arm 2) [HR=0.73 (95% CI: 0.591, 0.909), p=0.0047]. IMFINZI + chemotherapy demonstrated an improvement in PFS vs. chemotherapy alone [HR=0.78 (95% CI: 0.645, 0.936)].  
+In the planned follow-up OS analysis (median: 25.1 months), the median OS for Arm 1 and Arm 2 was consistent with the OS interim analysis. The PFS, ORR and DoR results from the planned interim analysis as well as the planned follow-up OS analysis results are summarised in Table 8. Kaplan-Meier curves for the planned follow-up OS and the interim analysis PFS are presented in Figure 5 and Figure 6. <<END_SECTION>>
+<<START_SUBHEADING>>	Table 8 	Efficacy Results for the CASPIAN Study  <<END_SUBHEADING>>
+<<START_SECTION>> 
+ 
+<<END_SECTION>>
+<<START_SUBHEADING>>Arm 1: IMFINZI + etoposide and either <<END_SUBHEADING>>
+<<START_SUBHEADING>>carboplatin or cisplatin (n=268) <<END_SUBHEADING>>
+<<START_SUBHEADING>>Arm 2: etoposide and either carboplatin or <<END_SUBHEADING>>
+<<START_HEADING>>cisplatin <<END_HEADING>>
+<<START_SUBHEADING>>(n=269) <<END_SUBHEADING>>
+<<START_HEADING>>OSa <<END_HEADING>>
+<<START_SECTION>>
+
+ 
+<<END_SECTION>>
+<<START_SUBHEADING>>Number of deaths (%) <<END_SUBHEADING>>
+<<START_HEADING>>210 (78.4) <<END_HEADING>>
+<<START_SUBHEADING>>231 (85.9) <<END_SUBHEADING>>
+<<START_SECTION>> 
+ 
+ 
+Median OS (months) (95% CI) <<END_SECTION>>
+<<START_HEADING>>12.9  <<END_HEADING>>
+<<START_SUBHEADING>>(11.3, 14.7) <<END_SUBHEADING>>
+<<START_SUBHEADING>>10.5 <<END_SUBHEADING>>
+<<START_SUBHEADING>>(9.3, 11.2) <<END_SUBHEADING>>
+<<START_SECTION>> 
+ 
+HR (95% CI)b 
+0.75 (0.625, 0.910) 
+ <<END_SECTION>>
+<<START_HEADING>>p-valuec <<END_HEADING>>
+<<START_SUBHEADING>>0.0032 <<END_SUBHEADING>>
+<<START_SECTION>>
+
+OS at 12 months (%) (95% CI) <<END_SECTION>>
+<<START_SUBHEADING>>52.8 <<END_SUBHEADING>>
+<<START_SUBHEADING>>(46.6, 58.5) <<END_SUBHEADING>>
+<<START_SUBHEADING>>39.3 <<END_SUBHEADING>>
+<<START_SUBHEADING>>(33.4, 45.1) <<END_SUBHEADING>>
+<<START_SECTION>>
+
+OS at 18 months (%) (95% CI) <<END_SECTION>>
+<<START_SUBHEADING>>32.0 <<END_SUBHEADING>>
+<<START_SUBHEADING>>(26.5, 37.7) <<END_SUBHEADING>>
+<<START_SUBHEADING>>24.8 <<END_SUBHEADING>>
+<<START_SUBHEADING>>(19.7, 30.1) <<END_SUBHEADING>>
+<<START_SECTION>>PFSd 
+PFSd 
+
+ 
+<<END_SECTION>>
+<<START_SUBHEADING>>Number of events (%) <<END_SUBHEADING>>
+<<START_SUBHEADING>>226 (84.3) <<END_SUBHEADING>>
+<<START_SUBHEADING>>233 (86.6) <<END_SUBHEADING>>
+<<START_SECTION>>
+
+Median PFS (months) (95% CI) <<END_SECTION>>
+<<START_SUBHEADING>>5.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>(4.7, 6.2) <<END_SUBHEADING>>
+<<START_SUBHEADING>>5.4 <<END_SUBHEADING>>
+<<START_SUBHEADING>>(4.8, 6.2) <<END_SUBHEADING>>
+<<START_SECTION>>
+
+HR (95% CI)b 
+0.78 (0.645, 0.936) 
+
+PFS at 6 months (%) (95% CI) <<END_SECTION>>
+<<START_SUBHEADING>>45.4 <<END_SUBHEADING>>
+<<START_SUBHEADING>>(39.3, 51.3) <<END_SUBHEADING>>
+<<START_SUBHEADING>>45.6 <<END_SUBHEADING>>
+<<START_SUBHEADING>>(39.3, 51.7) <<END_SUBHEADING>>
+<<START_SECTION>>PFS at 12 months (%) (95% CI) <<END_SECTION>>
+<<START_SUBHEADING>>17.5 <<END_SUBHEADING>>
+<<START_SUBHEADING>>(13.1, 22.5) <<END_SUBHEADING>>
+<<START_SUBHEADING>>4.7 <<END_SUBHEADING>>
+<<START_SUBHEADING>>(2.4, 8.0) <<END_SUBHEADING>>
+<<START_HEADING>>ORR n (%)d,e <<END_HEADING>>
+<<START_HEADING>>182 (67.9) <<END_HEADING>>
+<<START_SUBHEADING>>155 (57.6) <<END_SUBHEADING>>
+<<START_SUBHEADING>>Complete Response n (%) <<END_SUBHEADING>>
+<<START_SUBHEADING>>6 (2.2) <<END_SUBHEADING>>
+<<START_SUBHEADING>>2 (0.7) <<END_SUBHEADING>>
+<<START_SUBHEADING>>Partial Response n (%) <<END_SUBHEADING>>
+<<START_SUBHEADING>>176 (65.7) <<END_SUBHEADING>>
+<<START_SUBHEADING>>153 (56.9) <<END_SUBHEADING>>
+<<START_SECTION>>Odds ratio (95% CI)f 
+Odds ratio (95% CI)f 
+1.56 (1.095, 2.218) 
+Median DoR (months) (95% CI) d,f <<END_SECTION>>
+<<START_SUBHEADING>>5.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>(4.9, 5.3) <<END_SUBHEADING>>
+<<START_SUBHEADING>>5.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>(4.8, 5.3) <<END_SUBHEADING>>
+<<START_SECTION>>DoR at 12 months (%)d,f <<END_SECTION>>
+<<START_SUBHEADING>>22.7 <<END_SUBHEADING>>
+<<START_SUBHEADING>>6.3 <<END_SUBHEADING>>
+<<START_SECTION>>a Follow-up OS analysis at clinical cut-off  27 January 2020. 
+a Follow-up OS analysis at clinical cut-off  27 January 2020. 
+b The analysis was performed using the stratified log-rank test, adjusting for planned platinum therapy in Cycle 1 (carboplatin or cisplatin), and using the rank tests of association approach.  
+c At the interim analysis (data cut-off 11 March 2019) the OS p-value was 0.0047, which met the boundary for declaring statistical significance of 0.0178 for a 4% overall 2-sided alpha, based on a Lan-DeMets alpha spending function with O'Brien Fleming type boundary with the actual number of events observed.  
+d PFS, ORR and DoR analyses at clinical cut-off 11 March 2019. e 	Confirmed Objective Response. 
+f 	The analysis was performed using a logistic regression model adjusting for planned platinum therapy in Cycle 1 (carboplatin or cisplatin) with 95% CI calculated by profile likelihood. 
+ 
+	Figure 5 	Kaplan-Meier curve of OS  
+
+ 	 
+	Figure 6 	Kaplan-Meier curve of PFS 
+
+ <<END_SECTION>>
+<<START_SUBHEADING>>Subgroup analysis: <<END_SUBHEADING>>
+<<START_SECTION>>The improvements in OS in favour of patients receiving IMFINZI + chemotherapy compared to those receiving chemotherapy alone, were consistently observed across the prespecified subgroups based on demographics, geographical region, carboplatin or cisplatin use and disease characteristics. <<END_SECTION>>
+<<START_SUBHEADING>>Change from baseline in lung cancer symptoms over 12 months (mixed model for repeated measures): <<END_SUBHEADING>>
+<<START_SECTION>>IMFINZI + chemotherapy improved appetite loss by demonstrating a statistically significant difference in mean change from baseline versus chemotherapy alone during the overall time period from randomisation until 12 months (Estimated mean difference -4.5; 99% CI -9.04, -0.04; p=0.009). Both treatment arms demonstrated numerical symptom reduction in cough, chest pain, dyspnoea and fatigue over the same time period. 
+IMFINZI + chemotherapy improved appetite loss by demonstrating a statistically significant difference in mean change from baseline versus chemotherapy alone during the overall time period from randomisation until 12 months (Estimated mean difference -4.5; 99% CI -9.04, -0.04; p=0.009). Both treatment arms demonstrated numerical symptom reduction in cough, chest pain, dyspnoea and fatigue over the same time period. 
+Patient-reported outcome results should be interpreted in the context of the open-label study design. 
+In the exploratory subgroup analyses of OS based on the planned platinum chemotherapy received at cycle 1, the HR was 0.70 (95% CI 0.55, 0.89) in patients who received carboplatin, and the HR was 0.88 (95% CI 0.55, 1.41) in patients who received cisplatin.  <<END_SECTION>>
+<<START_SUBHEADING>>	5.2 	Pharmacokinetic properties <<END_SUBHEADING>>
+<<START_SECTION>>The PK of durvalumab was assessed for both IMFINZI as a single agent and in combination with chemotherapy. There was no clinically meaningful difference between the PK of durvalumab as a single agent and in combination with chemotherapy.  
+The PK of durvalumab was assessed for both IMFINZI as a single agent and in combination with chemotherapy. There was no clinically meaningful difference between the PK of durvalumab as a single agent and in combination with chemotherapy.  
+The pharmacokinetics of IMFINZI was studied in 2903 patients with solid tumours with doses ranging from 0.1 to 20 mg/kg administered once every two, three or four weeks. <<END_SECTION>>
+<<START_SUBHEADING>>Distribution <<END_SUBHEADING>>
+<<START_SECTION>>PK exposure increased more than dose-proportionally (non-linear PK) at doses <3 mg/kg and dose proportionally (linear PK) at doses ò 3 mg/kg. Steady state was achieved at approximately 16 weeks. Based on population PK analysis that included 1878 patients in the dose range of ò 10 mg/kg Q2W, the steady state volume of distribution (Vss) was 5.64 L. <<END_SECTION>>
+<<START_SUBHEADING>>Excretion <<END_SUBHEADING>>
+<<START_SECTION>>Durvalumab clearance (CL) decreased over time resulting in a geometric mean steady state clearance (CLss) of 8.16 mL/h at Day 365; the decrease in CLss was not considered clinically relevant. The terminal half-life (t1/2), based on baseline CL, was approximately 18 days. <<END_SECTION>>
+<<START_SUBHEADING>>Special Populations <<END_SUBHEADING>>
+<<START_SECTION>>Age (19?96 years), body weight (34-149 kg), gender, positive anti-drug antibody (ADA) status, albumin levels, LDH levels, creatinine levels, soluble PD-L1, tumour type, race, mild renal impairment (creatinine clearance (CRCL) 60 to 89 mL/min), moderate renal impairment (creatinine clearance (CRCL) 30 to 59 mL/min), mild hepatic impairment (bilirubin ó ULN and AST > ULN or bilirubin >1.0 to 1.5 ? ULN and any AST) and ECOG/WHO status had no clinically significant effect on the pharmacokinetics of durvalumab. 
+Age (19?96 years), body weight (34-149 kg), gender, positive anti-drug antibody (ADA) status, albumin levels, LDH levels, creatinine levels, soluble PD-L1, tumour type, race, mild renal impairment (creatinine clearance (CRCL) 60 to 89 mL/min), moderate renal impairment (creatinine clearance (CRCL) 30 to 59 mL/min), mild hepatic impairment (bilirubin ó ULN and AST > ULN or bilirubin >1.0 to 1.5 ? ULN and any AST) and ECOG/WHO status had no clinically significant effect on the pharmacokinetics of durvalumab. 
+The effect of severe renal impairment (CRCL 15 to 29 mL/min) or moderate (bilirubin >1.5 to 3 x ULN and any AST) or severe (bilirubin >3.0 x ULN and any AST) hepatic impairment on the pharmacokinetics of durvalumab is unknown; however, as IgG monoclonal antibodies are not primarily cleared via hepatic pathways, a change in hepatic function is not expected to influence durvalumab exposure. <<END_SECTION>>
+<<START_SUBHEADING>>Immunogenicity <<END_SUBHEADING>>
+<<START_SECTION>>As with all therapeutic proteins, there is a potential for immunogenicity. Immunogenicity of 
+As with all therapeutic proteins, there is a potential for immunogenicity. Immunogenicity of 
+IMFINZI as monotherapy is based on pooled data in 2280 patients  who were treated with IMFINZI 
+10 mg/kg every 2 weeks or 20mg/kg every 4 weeks as a single-agent and evaluable for the presence of anti-drug antibodies (ADAs).Sixty nine patients (3.0%) tested positive for treatment-emergent ADAs. Neutralising antibodies against durvalumab were detected in 0.5% (12/2280) patients. The presence of ADAs did not have a clinically relevant effect on pharmacokinetics, pharmacodynamics or safety. 
+In the CASPIAN study, of the 201 patients who were treated with IMFINZI 1500 mg every 3 weeks in combination with etoposide, and carboplatin or cisplatin and evaluable for the presence of ADAs, 0 (0%) patients tested positive for treatment-emergent ADAs.   
+Immunogenicity assay results are highly dependent on several factors, including assay sensitivity and specificity, assay methodology, sample handling, timing of sample collection, concomitant medications and underlying disease. 
+For these reasons, comparison of incidence of antibodies to IMFINZI with the incidence of antibodies to other products may be misleading. <<END_SECTION>>
+<<START_SUBHEADING>>	5.3 	Preclinical safety data <<END_SUBHEADING>>
+<<START_SUBHEADING>>Genotoxicity <<END_SUBHEADING>>
+<<START_SECTION>>The genotoxic potential of durvalumab has not been evaluated. As a large protein molecule, durvalumab is not expected to interact directly with DNA or other chromosomal material. <<END_SECTION>>
+<<START_SUBHEADING>>Carcinogenicity <<END_SUBHEADING>>
+<<START_SECTION>>The carcinogenic potential of durvalumab has not been evaluated. <<END_SECTION>>
+<<START_SUBHEADING>>	6 	PHARMACEUTICAL PARTICULARS <<END_SUBHEADING>>
+<<START_SUBHEADING>>	6.1 	List of excipients <<END_SUBHEADING>>
+<<START_SECTION>>IMFINZI concentrated solution for infusion contains the following excipients: histidine, histidine hydrochloride monohydrate, trehalose dihydrate, polysorbate 80 and water for injection. <<END_SECTION>>
+<<START_SUBHEADING>>	6.2 	Incompatibilities <<END_SUBHEADING>>
+<<START_SECTION>>Incompatibilities were either not assessed or not identified as part of the registration of this medicine. <<END_SECTION>>
+<<START_SUBHEADING>>	6.3 	Shelf life <<END_SUBHEADING>>
+<<START_SECTION>>In Australia, information on the shelf life can be found on the public summary of the Australian Register of Therapeutic Goods (ARTG). The expiry date can be found on the packaging. <<END_SECTION>>
+<<START_SUBHEADING>>	6.4 	Special precautions for storage <<END_SUBHEADING>>
+<<START_SECTION>>Store unopened vials under refrigeration at 2øC to 8øC in the original carton to protect from light. Do not freeze. Do not shake. <<END_SECTION>>
+<<START_SUBHEADING>>	6.5 	Nature and contents of container <<END_SUBHEADING>>
+<<START_SECTION>>10 mL of concentrated solution for infusion in a 10 mL Type 1 glass vial with an elastomeric stopper and a white flip-off aluminium seal containing 500 mg durvalumab. Pack size of 1 vial.  
+10 mL of concentrated solution for infusion in a 10 mL Type 1 glass vial with an elastomeric stopper and a white flip-off aluminium seal containing 500 mg durvalumab. Pack size of 1 vial.  
+2.4 mL of concentrated solution for infusion in a 10 mL Type 1 glass vial with an elastomeric stopper and a grey flip-off aluminium seal containing 120 mg durvalumab. Pack size of 1 vial. <<END_SECTION>>
+<<START_SUBHEADING>>	6.6 	Special precautions for disposal <<END_SUBHEADING>>
+<<START_SECTION>>In Australia, any unused medicine or waste material should be disposed of by taking to your local pharmacy. <<END_SECTION>>
+<<START_SUBHEADING>>	6.7 	Physicochemical properties <<END_SUBHEADING>>
+<<START_SECTION>>Durvalumab is a human immunoglobulin (IgG1?) monoclonal antibody. <<END_SECTION>>
+<<START_SUBHEADING>>CAS number:  1428935-60-7 <<END_SUBHEADING>>
+<<START_SECTION>>	7 	MEDICINE SCHEDULE (POISONS STANDARD) 
+	7 	MEDICINE SCHEDULE (POISONS STANDARD) 
+Prescription only medicine (Schedule 4). <<END_SECTION>>
+<<START_SUBHEADING>>	8 	SPONSOR <<END_SUBHEADING>>
+<<START_SUBHEADING>>AstraZeneca Pty Ltd <<END_SUBHEADING>>
+<<START_SUBHEADING>>ABN 54 009 682 311 <<END_SUBHEADING>>
+<<START_HEADING>>66 Talavera Road <<END_HEADING>>
+<<START_SUBHEADING>>MACQUARIE PARK NSW 2113 <<END_SUBHEADING>>
+<<START_HEADING>>Telephone: 1800 805 342 <<END_HEADING>>
+<<START_SUBHEADING>>	9 	DATE OF FIRST APPROVAL <<END_SUBHEADING>>
+<<START_SUBHEADING>>2 October 2018 <<END_SUBHEADING>>
+<<START_SUBHEADING>>	10 	DATE OF REVISION <<END_SUBHEADING>>
+<<START_SUBHEADING>>	 27 October 2021 	 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Summary table of changes <<END_SUBHEADING>>
+<<START_SUBHEADING>>Section changed <<END_SUBHEADING>>
+<<START_SUBHEADING>>Summary of new information <<END_SUBHEADING>>
+<<START_SUBHEADING>>4.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>ES-SCLC indication added <<END_SUBHEADING>>
+<<START_SUBHEADING>>4.2 <<END_SUBHEADING>>
+<<START_SUBHEADING>>New dosage added for ES-SCLC indication and editorial changes <<END_SUBHEADING>>
+<<START_SUBHEADING>>4.4 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Section updated <<END_SUBHEADING>>
+<<START_SUBHEADING>>4.5 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Section updated based on CASPIAN clinical study <<END_SUBHEADING>>
+<<START_SUBHEADING>>4.8 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Section updated based on the pooled safety dataset and CASPIAN clinical study <<END_SUBHEADING>>
+<<START_SUBHEADING>>4.4 and 4.8 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Inclusion of immune-mediated non-infective meningitis, non-infective encephalitis, and Guillain-Barr‚ syndrome (GBS)  <<END_SUBHEADING>>
+<<START_SUBHEADING>>5.1 <<END_SUBHEADING>>
+<<START_SUBHEADING>>CASPIAN clinical study added <<END_SUBHEADING>>
+<<START_SUBHEADING>>5.2 <<END_SUBHEADING>>
+<<START_SUBHEADING>>Section updated based on the pooled safety dataset and CASPIAN clinical study <<END_SUBHEADING>>
+<<START_SUBHEADING>>4.2 <<END_SUBHEADING>>
+<<START_SECTION>>Treatment modifications and management recommendations for adverse reactions in Table 2 has been updated. <<END_SECTION>>
+<<START_SUBHEADING>>4.4 and 4.8 <<END_SUBHEADING>>
+<<START_SECTION>>Section 4.4 and 4.8 updated to include a warning that immune-mediated T1DM can present with DKA.  <<END_SECTION>>
+<<START_SUBHEADING>>4.1, 4.2, 4.4, <<END_SUBHEADING>>
+<<START_SUBHEADING>>4.8 and 5.1 <<END_SUBHEADING>>
+<<START_SECTION>>Section updated as a consequence of the deletion of the Urothelial Carcinoma (UC) indication. <<END_SECTION>>
+<<START_SUBHEADING>>4.2 <<END_SUBHEADING>>
+<<START_SECTION>>New ?1500 mg every 4 weeks? dosage for NSCLC has been added. <<END_SECTION>>
+<<START_SUBHEADING>>5.1 <<END_SUBHEADING>>
+<<START_SECTION>>?1500 mg every 4 weeks? dosage added as per CDS v14, dated 20 July 2020. <<END_SECTION>>
+<<START_SUBHEADING>>? AstraZeneca 2021 <<END_SUBHEADING>>
+<<START_HEADING>> Doc ID-003924983 v14 <<END_HEADING>>
+<<START_SUBHEADING>>1 of 29 <<END_SUBHEADING>>
+<<START_SECTION>><<END_SECTION>>
+<<START_SUBHEADING>>1 of 29 <<END_SUBHEADING>>
+<<START_SECTION>><<END_SECTION>>
+<<START_SUBHEADING>>1 of 29 <<END_SUBHEADING>>
+<<START_SECTION>>
+
+ <<END_SECTION>>
+<<START_SUBHEADING>>* Defined as requiring use of systemic corticosteroids and with no clear alternate aetiology. <<END_SUBHEADING>>
+<<START_SECTION>> <<END_SECTION>>
+<<START_SUBHEADING>>5 of 29 <<END_SUBHEADING>>
+<<START_SECTION>>
+
+ <<END_SECTION>>
+<<START_SUBHEADING>>* Defined as requiring use of systemic corticosteroids and with no clear alternate aetiology. <<END_SUBHEADING>>
+<<START_SECTION>> <<END_SECTION>>
+<<START_SUBHEADING>>5 of 29 <<END_SUBHEADING>>
+<<START_SECTION>>
+
+ <<END_SECTION>>
+<<START_SUBHEADING>>* Defined as requiring use of systemic corticosteroids and with no clear alternate aetiology. <<END_SUBHEADING>>
+<<START_SECTION>> <<END_SECTION>>
+<<START_SUBHEADING>>5 of 29 <<END_SUBHEADING>>
+<<START_SECTION>><<END_SECTION>>
+<<START_SUBHEADING>>1 of 29 <<END_SUBHEADING>>
+<<START_SECTION>><<END_SECTION>>
+<<START_SUBHEADING>>1 of 29 <<END_SUBHEADING>>
+<<START_SECTION>><<END_SECTION>>
+<<START_SUBHEADING>>1 of 29 <<END_SUBHEADING>>
+<<START_SECTION>><<END_SECTION>>

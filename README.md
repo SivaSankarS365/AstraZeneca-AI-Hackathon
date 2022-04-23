@@ -10,7 +10,8 @@ different categories - Heading, Sub-Heading ,Section"
 * The main task given to the teams is to segment documents into headings, sub-headings and sections.
 * The documents can be of format .doc, .docx and .txt.
 * This way we can find a critical information from large database of documents. This is critically important for medical documents where, for example, an user might be interested to find known side effects of a drug or a doctor needs to find critical information from millions of research papers.
-  
+## My team:
+![Team](Images/Table-0.jpeg)
 ## Our approach:
 ### Data Collection:
 * The first challenge for us was to collect "labelled data". We used millions of article from wikipedia as the primary source of data.

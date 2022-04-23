@@ -3,7 +3,7 @@
 
 ## Introduction
 ___
-On January 2022, AstraZeneca organised an AI hackathon as part of Shasstra-2022. About 559 teams registered for the hackathon. 
+On January 2022, AstraZeneca organised an AI hackathon as part of Shaastra-2022. About 559 teams registered for the hackathon. 
 > "Our problem statement is simple, analyse different documents and tag the respective contents into 3
 different categories - Heading, Sub-Heading ,Section"
 
